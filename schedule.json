@@ -1,4005 +1,869 @@
 [  
     {  
-       "pk":2121,
+       "pk":3000,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Twitch.TV",
-          "name":"Pre-Show",
-          "setup_time":"0",
-          "event":19,
-          "order":1,
-          "public":"Pre-Show Any% (Awesome Games Done Quick 2017)",
-          "release_year":2017,
-          "run_time":"0:30:00",
-          "starttime":"2017-01-08T16:30:00Z",
-          "display_name":"Pre-Show",
-          "commentators":"",
-          "endtime":"2017-01-08T17:00:00Z",
-          "deprecated_runners":"tokko_tomcat, feasel, Golden, Blechy, Darkman78",
-          "runners":[  
-             2,
-             80,
-             119,
-             140,
-             147
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1946,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PS2",
-          "name":"Ape Escape 2",
-          "setup_time":"0:12:30",
-          "event":19,
-          "order":2,
-          "public":"Ape Escape 2 Any% (Awesome Games Done Quick 2017)",
-          "release_year":2003,
-          "run_time":"0:55:30",
-          "starttime":"2017-01-08T17:00:00Z",
-          "display_name":"Ape Escape 2",
-          "commentators":"",
-          "endtime":"2017-01-08T18:08:00Z",
-          "deprecated_runners":"iongravirei",
-          "runners":[  
-             337
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1947,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"All Dungeons",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"3DS",
-          "name":"The Legend of Zelda: Ocarina of Time 3D",
-          "setup_time":"0:17:37",
-          "event":19,
-          "order":3,
-          "public":"The Legend of Zelda: Ocarina of Time 3D All Dungeons (Awesome Games Done Quick 2017)",
-          "release_year":2011,
-          "run_time":"1:57:23",
-          "starttime":"2017-01-08T18:08:00Z",
-          "display_name":"Legend of Zelda:\\nOcarina of Time 3D",
-          "commentators":"",
-          "endtime":"2017-01-08T20:23:00Z",
-          "deprecated_runners":"benstephens56",
-          "runners":[  
-             454
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1948,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"2 Player Co-op",
-          "giantbomb_id":null,
-          "coop":true,
-          "console":"PC",
-          "name":"Borderlands 2",
-          "setup_time":"0:22:10",
-          "event":19,
-          "order":4,
-          "public":"Borderlands 2 2 Player Co-op (Awesome Games Done Quick 2017)",
-          "release_year":2012,
-          "run_time":"1:44:50",
-          "starttime":"2017-01-08T20:23:00Z",
-          "display_name":"Borderlands 2",
-          "commentators":"",
-          "endtime":"2017-01-08T22:30:00Z",
-          "deprecated_runners":"Shockwve, Amyrlinn",
-          "runners":[  
-             116,
-             452
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1949,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Psychonauts",
-          "setup_time":"0:22:28",
-          "event":19,
-          "order":5,
-          "public":"Psychonauts Any% (Awesome Games Done Quick 2017)",
-          "release_year":2005,
-          "run_time":"0:53:32",
-          "starttime":"2017-01-08T22:30:00Z",
-          "display_name":"Psychonauts",
-          "commentators":"",
-          "endtime":"2017-01-08T23:46:00Z",
-          "deprecated_runners":"demoli",
-          "runners":[  
-             479
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1950,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Shovel Knight",
-          "setup_time":"0:27:44",
-          "event":19,
-          "order":6,
-          "public":"Shovel Knight Any% (Awesome Games Done Quick 2017)",
-          "release_year":2014,
-          "run_time":"0:46:16",
-          "starttime":"2017-01-08T23:46:00Z",
-          "display_name":"Shovel Knight",
-          "commentators":"",
-          "endtime":"2017-01-09T01:00:00Z",
-          "deprecated_runners":"Smaugy, MunchaKoopas",
-          "runners":[  
-             438,
-             487
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1951,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"All Stages",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Mega Man",
-          "setup_time":"0:21:59",
-          "event":19,
-          "order":7,
-          "public":"Mega Man All Stages (Awesome Games Done Quick 2017)",
-          "release_year":1987,
-          "run_time":"0:24:01",
-          "starttime":"2017-01-09T01:00:00Z",
-          "display_name":"Mega Man",
-          "commentators":"",
-          "endtime":"2017-01-09T01:46:00Z",
-          "deprecated_runners":"WhiteHat94, Endy, dxtr, coolkid",
-          "runners":[  
-             11,
-             393,
-             407,
-             491
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1952,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Time Trial Race",
           "giantbomb_id":null,
           "coop":false,
           "console":"SNES",
-          "name":"Super Mario Kart",
-          "setup_time":"0:17:36",
+          "name":"Donkey Kong Country",
+          "setup_time":"0:20:00",
           "event":19,
-          "order":8,
-          "public":"Super Mario Kart Time Trial Race (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:30:24",
-          "starttime":"2017-01-09T01:46:00Z",
-          "display_name":"Super Mario Kart",
+          "order":1,
+          "public":"Donkey Kong Country - Any% (Distant Star Cares 2018 Extra Life)",
+          "release_year":1994,
+          "run_time":"0:20:00",
+          "starttime":"",
+          "display_name":"Donkey Kong Country",
           "commentators":"",
-          "endtime":"2017-01-09T02:34:00Z",
-          "deprecated_runners":"KVD, Sami Cetin",
+          "endtime":"",
+          "deprecated_runners":"mrzerathemant",
           "runners":[  
-             122,
-             481
+             2
           ],
           "description":""
        }
     },
-    {  
-       "pk":1953,
+	{  
+       "pk":3001,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Pajama%",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"SNES",
+          "name":"Earthbound",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":2,
+          "public":"Earthbound - Pajama% (Distant Star Cares 2018 Extra Life)",
+          "release_year":1994,
+          "run_time":"1:25:00",
+          "starttime":"",
+          "display_name":"Earthbound",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"MyOhMyke, HunterRNG",
+          "runners":[  
+             3,
+             4
+          ],
+          "description":""
+       }
+	},
+	    {  
+       "pk":3002,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Pokey%",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"SNES",
+          "name":"Earthbound",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":3,
+          "public":"Earthbound - Pokey% (Distant Star Cares 2018 Extra Life)",
+          "release_year":1994,
+          "run_time":"1:40:00",
+          "starttime":"",
+          "display_name":"Earthbound",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"MyOhMyke",
+          "runners":[  
+             3
+          ],
+          "description":""
+       }
+    },
+	    {  
+       "pk":3003,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any%",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PC",
+          "name":"LIT",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":4,
+          "public":"LIT - Any% (Distant Star Cares 2018 Extra Life)",
+          "release_year":2009,
+          "run_time":"0:35:00",
+          "starttime":"",
+          "display_name":"LIT",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"MyOhMyke",
+          "runners":[  
+             3
+          ],
+          "description":""
+       }
+    },
+	    {  
+       "pk":3004,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Eastern Title",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Xbox",
+          "name":"Backyard Wrestling 2: There Goes the Neighborhood",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":5,
+          "public":"Backyard Wrestling 2: There Goes the Neighborhood - Eastern Title (Distant Star Cares 2018 Extra Life)",
+          "release_year":2004,
+          "run_time":"0:55:00",
+          "starttime":"",
+          "display_name":"Backyard Wrestling 2:\\nThere Goes the Neighborhood",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"DJ_Phatzo",
+          "runners":[  
+             5
+          ],
+          "description":""
+       }
+    },
+		    {  
+       "pk":3005,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"Any% Easy",
           "giantbomb_id":null,
           "coop":false,
-          "console":"PC",
-          "name":"Quake",
-          "setup_time":"0:24:50",
-          "event":19,
-          "order":9,
-          "public":"Quake Any% Easy (Awesome Games Done Quick 2017)",
-          "release_year":1996,
-          "run_time":"0:15:10",
-          "starttime":"2017-01-09T02:34:00Z",
-          "display_name":"Quake",
-          "commentators":"",
-          "endtime":"2017-01-09T03:14:00Z",
-          "deprecated_runners":"coolkid",
-          "runners":[  
-             491
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1954,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"European Extreme",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PS3",
-          "name":"Metal Gear Solid 2: Sons of Liberty",
-          "setup_time":"0:19:33",
-          "event":19,
-          "order":10,
-          "public":"Metal Gear Solid 2: Sons of Liberty European Extreme (Awesome Games Done Quick 2017)",
-          "release_year":2001,
-          "run_time":"1:32:27",
-          "starttime":"2017-01-09T03:14:00Z",
-          "display_name":"Metal Gear Solid 2:\\nSons of Liberty",
-          "commentators":"",
-          "endtime":"2017-01-09T05:06:00Z",
-          "deprecated_runners":"Jaguar King",
-          "runners":[  
-             253
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1955,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"New Game / Normal",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PS3",
-          "name":"Devil May Cry",
-          "setup_time":"0:10:31",
-          "event":19,
-          "order":11,
-          "public":"Devil May Cry New Game / Normal (Awesome Games Done Quick 2017)",
-          "release_year":2001,
-          "run_time":"0:51:29",
-          "starttime":"2017-01-09T05:06:00Z",
-          "display_name":"Devil May Cry",
-          "commentators":"",
-          "endtime":"2017-01-09T06:08:00Z",
-          "deprecated_runners":"Maxylobes",
-          "runners":[  
-             259
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1956,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Wesker Mode",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Resident Evil Zero HD Remaster",
-          "setup_time":"0:21:43",
-          "event":19,
-          "order":12,
-          "public":"Resident Evil Zero HD Remaster Wesker Mode (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"1:16:17",
-          "starttime":"2017-01-09T06:08:00Z",
-          "display_name":"Resident Evil Zero\\nHD Remaster",
-          "commentators":"",
-          "endtime":"2017-01-09T07:46:00Z",
-          "deprecated_runners":"Pessimism",
-          "runners":[  
-             486
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1957,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Silent Hill 4: The Room",
-          "setup_time":"0:40:39",
-          "event":19,
-          "order":13,
-          "public":"Silent Hill 4: The Room Any% (Awesome Games Done Quick 2017)",
-          "release_year":2004,
-          "run_time":"1:11:21",
-          "starttime":"2017-01-09T07:46:00Z",
-          "display_name":"Silent Hill 4:\\nThe Room",
-          "commentators":"",
-          "endtime":"2017-01-09T09:38:00Z",
-          "deprecated_runners":"AnEternalEnigma",
-          "runners":[  
-             382
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1958,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Low Difficulty",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"F.E.A.R. Extraction Point",
-          "setup_time":"0:11:39",
-          "event":19,
-          "order":14,
-          "public":"F.E.A.R. Extraction Point Low Difficulty (Awesome Games Done Quick 2017)",
-          "release_year":2006,
-          "run_time":"0:40:21",
-          "starttime":"2017-01-09T09:38:00Z",
-          "display_name":"F.E.A.R. Extraction Point",
-          "commentators":"",
-          "endtime":"2017-01-09T10:30:00Z",
-          "deprecated_runners":"Overfiendvip",
-          "runners":[  
-             424
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1959,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"PRO/SA",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Hitman: Blood Money",
-          "setup_time":"0:07:08",
-          "event":19,
-          "order":15,
-          "public":"Hitman: Blood Money PRO/SA (Awesome Games Done Quick 2017)",
-          "release_year":2006,
-          "run_time":"0:36:52",
-          "starttime":"2017-01-09T10:30:00Z",
-          "display_name":"Hitman: Blood Money",
-          "commentators":"",
-          "endtime":"2017-01-09T11:14:00Z",
-          "deprecated_runners":"Saintmillion",
-          "runners":[  
-             391
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1960,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"The Turing Test",
-          "setup_time":"0:11:22",
-          "event":19,
-          "order":16,
-          "public":"The Turing Test Any% (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:38:38",
-          "starttime":"2017-01-09T11:14:00Z",
-          "display_name":"The Turing Test",
-          "commentators":"",
-          "endtime":"2017-01-09T12:04:00Z",
-          "deprecated_runners":"Azorae",
-          "runners":[  
-             103
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1961,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Combat Lady, All Stages",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Hyper Princess Pitch",
-          "setup_time":"0:06:52",
-          "event":19,
-          "order":17,
-          "public":"Hyper Princess Pitch Combat Lady, All Stages (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"0:14:08",
-          "starttime":"2017-01-09T12:04:00Z",
-          "display_name":"Hyper Princess\\nPitch",
-          "commentators":"",
-          "endtime":"2017-01-09T12:25:00Z",
-          "deprecated_runners":"WanderingMind",
-          "runners":[  
-             384
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1962,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Hydra Castle Labyrinth",
-          "setup_time":"0:17:34",
-          "event":19,
-          "order":18,
-          "public":"Hydra Castle Labyrinth Any% (Awesome Games Done Quick 2017)",
-          "release_year":2011,
-          "run_time":"0:32:26",
-          "starttime":"2017-01-09T12:25:00Z",
-          "display_name":"Hydra Castle Labyrinth",
-          "commentators":"",
-          "endtime":"2017-01-09T13:15:00Z",
-          "deprecated_runners":"ForOhFor",
-          "runners":[  
-             455
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1963,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Inner World",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Kalimba",
-          "setup_time":"0:09:55",
-          "event":19,
-          "order":19,
-          "public":"Kalimba Inner World (Awesome Games Done Quick 2017)",
-          "release_year":2014,
-          "run_time":"0:18:05",
-          "starttime":"2017-01-09T13:15:00Z",
-          "display_name":"Kalimba",
-          "commentators":"",
-          "endtime":"2017-01-09T13:43:00Z",
-          "deprecated_runners":"DevilSquirrel",
-          "runners":[  
-             468
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1964,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"New Super Hook Girl",
-          "setup_time":"0:23:03",
-          "event":19,
-          "order":20,
-          "public":"New Super Hook Girl Any% (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:05:57",
-          "starttime":"2017-01-09T13:43:00Z",
-          "display_name":"New Super Hook Girl",
-          "commentators":"",
-          "endtime":"2017-01-09T14:12:00Z",
-          "deprecated_runners":"bjw",
-          "runners":[  
-             89
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1965,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Valdis Story: Abyssal City",
-          "setup_time":"0:12:12",
-          "event":19,
-          "order":21,
-          "public":"Valdis Story: Abyssal City Any% (Awesome Games Done Quick 2017)",
-          "release_year":2013,
-          "run_time":"0:37:48",
-          "starttime":"2017-01-09T14:12:00Z",
-          "display_name":"Valdis Story:\\nAbyssal City",
-          "commentators":"",
-          "endtime":"2017-01-09T15:02:00Z",
-          "deprecated_runners":"RiskyCB",
-          "runners":[  
-             388
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1967,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"All Bosses",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Salt and Sanctuary",
-          "setup_time":"0:10:58",
-          "event":19,
-          "order":22,
-          "public":"Salt and Sanctuary All Bosses (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:39:02",
-          "starttime":"2017-01-09T15:02:00Z",
-          "display_name":"Salt and Sanctuary",
-          "commentators":"",
-          "endtime":"2017-01-09T15:52:00Z",
-          "deprecated_runners":"Grimelios",
-          "runners":[  
-             95
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2126,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Salt and Sanctuary",
-          "setup_time":"0:08:03",
-          "event":19,
-          "order":23,
-          "public":"Salt and Sanctuary Any% (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:09:57",
-          "starttime":"2017-01-09T15:52:00Z",
-          "display_name":"Salt and Sanctuary",
-          "commentators":"",
-          "endtime":"2017-01-09T16:10:00Z",
-          "deprecated_runners":"Grimelios",
-          "runners":[  
-             95
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1968,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Normal Beginning",
-          "giantbomb_id":null,
-          "coop":false,
           "console":"SNES",
-          "name":"Magic Sword",
-          "setup_time":"0:09:22",
+          "name":"Sonic Blast Man II",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":24,
-          "public":"Magic Sword Normal Beginning (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:23:38",
-          "starttime":"2017-01-09T16:10:00Z",
-          "display_name":"Magic Sword",
+          "order":6,
+          "public":"Sonic Blast Man II - Any% Easy (Distant Star Cares 2018 Extra Life)",
+          "release_year":1990,
+          "run_time":"0:37:00",
+          "starttime":"",
+          "display_name":"Sonic Blast Man II",
           "commentators":"",
-          "endtime":"2017-01-09T16:43:00Z",
-          "deprecated_runners":"Pro_JN, yelsraek",
+          "endtime":"",
+          "deprecated_runners":"Linkameister",
           "runners":[  
-             220,
-             405
+             7
           ],
           "description":""
        }
     },
-    {  
-       "pk":1969,
+		    {  
+       "pk":3006,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"Any%",
           "giantbomb_id":null,
           "coop":false,
           "console":"SNES",
-          "name":"Joe and Mac 2",
-          "setup_time":"0:07:24",
+          "name":"Dragon Ball Z: Super Butoden 2",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":25,
-          "public":"Joe and Mac 2 Any% (Awesome Games Done Quick 2017)",
-          "release_year":1994,
-          "run_time":"0:21:36",
-          "starttime":"2017-01-09T16:43:00Z",
-          "display_name":"Joe and Mac 2",
-          "commentators":"",
-          "endtime":"2017-01-09T17:12:00Z",
-          "deprecated_runners":"dram55",
-          "runners":[  
-             485
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1970,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Congo's Caper",
-          "setup_time":"0:07:04",
-          "event":19,
-          "order":26,
-          "public":"Congo's Caper Any% (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:21:56",
-          "starttime":"2017-01-09T17:12:00Z",
-          "display_name":"Congo's Caper",
-          "commentators":"",
-          "endtime":"2017-01-09T17:41:00Z",
-          "deprecated_runners":"Omnigamer",
-          "runners":[  
-             333
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1971,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Batman: Return of the Joker",
-          "setup_time":"0:13:03",
-          "event":19,
-          "order":27,
-          "public":"Batman: Return of the Joker Any% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:13:57",
-          "starttime":"2017-01-09T17:41:00Z",
-          "display_name":"Batman: Return of the Joker",
-          "commentators":"",
-          "endtime":"2017-01-09T18:08:00Z",
-          "deprecated_runners":"Toad22484",
-          "runners":[  
-             418
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1972,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% Hard pistols",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Sunset Riders",
-          "setup_time":"0:10:01",
-          "event":19,
-          "order":28,
-          "public":"Sunset Riders Any% Hard pistols (Awesome Games Done Quick 2017)",
+          "order":7,
+          "public":"Dragon Ball Z: Super Butoden 2 - Any% (Distant Star Cares 2018 Extra Life)",
           "release_year":1993,
-          "run_time":"0:20:59",
-          "starttime":"2017-01-09T18:08:00Z",
-          "display_name":"Sunset Riders",
+          "run_time":"0:20:00",
+          "starttime":"",
+          "display_name":"Dragon Ball Z:\\nSuper Butoden 2",
           "commentators":"",
-          "endtime":"2017-01-09T18:39:00Z",
-          "deprecated_runners":"Gusmancini",
+          "endtime":"",
+          "deprecated_runners":"DBArcade",
           "runners":[  
-             413
+             8
           ],
           "description":""
        }
     },
-    {  
-       "pk":1973,
+			    {  
+       "pk":3007,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Super Bomberman",
-          "setup_time":"0:05:47",
-          "event":19,
-          "order":29,
-          "public":"Super Bomberman Any% (Awesome Games Done Quick 2017)",
-          "release_year":1993,
-          "run_time":"0:15:13",
-          "starttime":"2017-01-09T18:39:00Z",
-          "display_name":"Super Bomberman",
-          "commentators":"",
-          "endtime":"2017-01-09T19:00:00Z",
-          "deprecated_runners":"Crak Atak",
-          "runners":[  
-             386
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1974,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Smart Ball",
-          "setup_time":"0:09:00",
-          "event":19,
-          "order":30,
-          "public":"Smart Ball Any% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:18:00",
-          "starttime":"2017-01-09T19:00:00Z",
-          "display_name":"Smart Ball",
-          "commentators":"",
-          "endtime":"2017-01-09T19:27:00Z",
-          "deprecated_runners":"giygasblues",
-          "runners":[  
-             428
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1975,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Gnat Attack Level 3",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Mario Paint",
-          "setup_time":"0:09:32",
-          "event":19,
-          "order":31,
-          "public":"Mario Paint Gnat Attack Level 3 (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:04:28",
-          "starttime":"2017-01-09T19:27:00Z",
-          "display_name":"Mario Paint",
-          "commentators":"",
-          "endtime":"2017-01-09T19:41:00Z",
-          "deprecated_runners":"DoDeChehedron",
-          "runners":[  
-             478
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1976,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Battle Clash",
-          "setup_time":"0:22:02",
-          "event":19,
-          "order":32,
-          "public":"Battle Clash Any% (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:13:58",
-          "starttime":"2017-01-09T19:41:00Z",
-          "display_name":"Battle Clash",
-          "commentators":"",
-          "endtime":"2017-01-09T20:17:00Z",
-          "deprecated_runners":"SCXCR",
-          "runners":[  
-             395
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1977,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Dreamcast",
-          "name":"Sega Bass Fishing",
-          "setup_time":"0:10:48",
-          "event":19,
-          "order":33,
-          "public":"Sega Bass Fishing Any% (Awesome Games Done Quick 2017)",
-          "release_year":1999,
-          "run_time":"0:07:12",
-          "starttime":"2017-01-09T20:17:00Z",
-          "display_name":"Sega Bass Fishing",
-          "commentators":"",
-          "endtime":"2017-01-09T20:35:00Z",
-          "deprecated_runners":"Fuzzyness",
-          "runners":[  
-             457
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1978,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Game Boy Color",
-          "name":"BONUS: Kirby Tilt 'n' Tumble",
-          "setup_time":"0:20:00",
-          "event":19,
-          "order":34,
-          "public":"BONUS: Kirby Tilt 'n' Tumble Any% (Awesome Games Done Quick 2017)",
-          "release_year":2000,
-          "run_time":"0:15:10",
-          "starttime":"2017-01-09T20:35:00Z",
-          "display_name":"Kirby Tilt 'n' Tumble",
-          "commentators":"",
-          "endtime":"2017-01-09T21:10:10Z",
-          "deprecated_runners":"Theguesst",
-          "runners":[  
-             380
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2122,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"N64",
-          "name":"Rocket: Robot on Wheels",
-          "setup_time":"0:13:00",
-          "event":19,
-          "order":35,
-          "public":"Rocket: Robot on Wheels Any% (Awesome Games Done Quick 2017)",
-          "release_year":1999,
-          "run_time":"0:58:48",
-          "starttime":"2017-01-09T21:10:10Z",
-          "display_name":"Rocket:\\nRobot on Wheels",
-          "commentators":"",
-          "endtime":"2017-01-09T22:21:58Z",
-          "deprecated_runners":"mashystrr",
-          "runners":[  
-             494
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1979,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Story Mode All Levels",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Gamecube",
-          "name":"Super Monkey Ball 2",
-          "setup_time":"0:11:00",
-          "event":19,
-          "order":36,
-          "public":"Super Monkey Ball 2 Story Mode All Levels (Awesome Games Done Quick 2017)",
-          "release_year":2002,
-          "run_time":"0:34:34",
-          "starttime":"2017-01-09T22:21:58Z",
-          "display_name":"Super Monkey Ball 2",
-          "commentators":"",
-          "endtime":"2017-01-09T23:07:32Z",
-          "deprecated_runners":"Peanut",
-          "runners":[  
-             461
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1980,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"All Difficulties",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Gamecube",
-          "name":"Super Monkey Ball Adventure",
-          "setup_time":"0:11:00",
-          "event":19,
-          "order":37,
-          "public":"Super Monkey Ball Adventure All Difficulties (Awesome Games Done Quick 2017)",
-          "release_year":2006,
-          "run_time":"0:18:13",
-          "starttime":"2017-01-09T23:07:32Z",
-          "display_name":"Super Monkey\\nBall Adventure",
-          "commentators":"",
-          "endtime":"2017-01-09T23:36:45Z",
-          "deprecated_runners":"Pokehero",
-          "runners":[  
-             387
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1982,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% Glitchless",
           "giantbomb_id":null,
           "coop":false,
           "console":"GBA",
-          "name":"Pokémon Emerald",
-          "setup_time":"0:27:59",
+          "name":"Dragon Ball Z: Buu's Fury",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":40,
-          "public":"Pokémon Emerald Any% Glitchless (Awesome Games Done Quick 2017)",
+          "order":8,
+          "public":"Dragon Ball Z: Buu's Fury - Any% (Distant Star Cares 2018 Extra Life)",
           "release_year":2004,
-          "run_time":"2:56:16",
-          "starttime":"2017-01-09T23:36:45Z",
-          "display_name":"Pokémon Emerald",
+          "run_time":"2:45:00",
+          "starttime":"",
+          "display_name":"Dragon Ball Z: Buu's Fury",
           "commentators":"",
-          "endtime":"2017-01-10T03:01:00Z",
-          "deprecated_runners":"TheTyrant14",
+          "endtime":"",
+          "deprecated_runners":"micsoul",
           "runners":[  
-             426
+             9
           ],
           "description":""
        }
     },
-    {  
-       "pk":1983,
+			    {  
+       "pk":3008,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Story Mode (Normal)",
+          "category":"Any% Story",
           "giantbomb_id":null,
           "coop":false,
           "console":"PSX",
-          "name":"Tetris with Cardcaptor Sakura: Eternal Heart",
-          "setup_time":"0:26:28",
+          "name":"The Battle: Kidou Butouden G Gundam",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":41,
-          "public":"Tetris with Cardcaptor Sakura: Eternal Heart Story Mode (Normal) (Awesome Games Done Quick 2017)",
-          "release_year":2000,
-          "run_time":"0:24:32",
-          "starttime":"2017-01-10T03:01:00Z",
-          "display_name":"Tetris with Cardcaptor Sakura:\\nEternal Heart",
-          "commentators":"",
-          "endtime":"2017-01-10T03:52:00Z",
-          "deprecated_runners":"KevinDDR, EnchantressOfNumbers",
-          "runners":[  
-             299,
-             359
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1984,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% Warpless",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Blaster Master",
-          "setup_time":"0:10:46",
-          "event":19,
-          "order":42,
-          "public":"Blaster Master Any% Warpless (Awesome Games Done Quick 2017)",
-          "release_year":1988,
-          "run_time":"0:39:14",
-          "starttime":"2017-01-10T03:52:00Z",
-          "display_name":"Blaster Master",
-          "commentators":"",
-          "endtime":"2017-01-10T04:42:00Z",
-          "deprecated_runners":"Skavenger216, ShiningDragoon",
-          "runners":[  
-             39,
-             69
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1985,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Pacifist%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Ninja Gaiden",
-          "setup_time":"0:06:29",
-          "event":19,
-          "order":43,
-          "public":"Ninja Gaiden Pacifist% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:17:31",
-          "starttime":"2017-01-10T04:42:00Z",
-          "display_name":"Ninja Gaiden",
-          "commentators":"",
-          "endtime":"2017-01-10T05:06:00Z",
-          "deprecated_runners":"dxtr, Gusmancini",
-          "runners":[  
-             407,
-             413
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1986,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Pacifist",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Ninja Gaiden II: The Dark Sword of Chaos",
-          "setup_time":"0:16:06",
-          "event":19,
-          "order":44,
-          "public":"Ninja Gaiden II: The Dark Sword of Chaos Pacifist (Awesome Games Done Quick 2017)",
-          "release_year":1990,
-          "run_time":"0:16:54",
-          "starttime":"2017-01-10T05:06:00Z",
-          "display_name":"Ninja Gaiden II:\\nDark Sword of Chaos",
-          "commentators":"",
-          "endtime":"2017-01-10T05:39:00Z",
-          "deprecated_runners":"Gusmancini",
-          "runners":[  
-             413
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1987,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Genesis",
-          "name":"Sparkster",
-          "setup_time":"0:07:26",
-          "event":19,
-          "order":45,
-          "public":"Sparkster Any% (Awesome Games Done Quick 2017)",
+          "order":9,
+          "public":"The Battle: Kidou Butouden G Gundam - Any% Story (Distant Star Cares 2018 Extra Life)",
           "release_year":1994,
-          "run_time":"0:20:34",
-          "starttime":"2017-01-10T05:39:00Z",
-          "display_name":"Sparkster",
+          "run_time":"0:12:00",
+          "starttime":"",
+          "display_name":"The Battle:\\nKidou Butouden G Gundam",
           "commentators":"",
-          "endtime":"2017-01-10T06:07:00Z",
-          "deprecated_runners":"Drakodan",
+          "endtime":"",
+          "deprecated_runners":"DBArcade",
           "runners":[  
-             445
+             8
           ],
           "description":""
        }
     },
-    {  
-       "pk":1988,
+			    {  
+       "pk":3009,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Beat the Game",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Genesis",
-          "name":"Decap Attack",
-          "setup_time":"0:14:54",
-          "event":19,
-          "order":46,
-          "public":"Decap Attack Beat the Game (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:25:06",
-          "starttime":"2017-01-10T06:07:00Z",
-          "display_name":"Decap Attack",
-          "commentators":"",
-          "endtime":"2017-01-10T06:47:00Z",
-          "deprecated_runners":"cook",
-          "runners":[  
-             489
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1989,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Adventure Island 4",
-          "setup_time":"0:11:44",
-          "event":19,
-          "order":47,
-          "public":"Adventure Island 4 Any% (Awesome Games Done Quick 2017)",
-          "release_year":1994,
-          "run_time":"0:25:16",
-          "starttime":"2017-01-10T06:47:00Z",
-          "display_name":"Adventure Island 4",
-          "commentators":"",
-          "endtime":"2017-01-10T07:24:00Z",
-          "deprecated_runners":"puchiedarcy",
-          "runners":[  
-             406
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1991,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Game Boy",
-          "name":"Shippuu! Iron Leaguer",
-          "setup_time":"0:10:01",
-          "event":19,
-          "order":48,
-          "public":"Shippuu! Iron Leaguer Any% (Awesome Games Done Quick 2017)",
-          "release_year":1994,
-          "run_time":"0:15:59",
-          "starttime":"2017-01-10T07:24:00Z",
-          "display_name":"Shippuu! Iron Leaguer",
-          "commentators":"",
-          "endtime":"2017-01-10T07:50:00Z",
-          "deprecated_runners":"Neerrm",
-          "runners":[  
-             421
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1992,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Game Boy",
-          "name":"Mickey's Dangerous Chase",
-          "setup_time":"0:12:00",
-          "event":19,
-          "order":49,
-          "public":"Mickey's Dangerous Chase Any% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:13:23",
-          "starttime":"2017-01-10T07:50:00Z",
-          "display_name":"Mickey's Dangerous Chase",
-          "commentators":"",
-          "endtime":"2017-01-10T08:15:23Z",
-          "deprecated_runners":"Adefgames",
-          "runners":[  
-             433
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1994,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"6-Episode",
+          "category":"Story Mode (1 Character)",
           "giantbomb_id":null,
           "coop":false,
           "console":"PC",
-          "name":"Jazz Jackrabbit",
-          "setup_time":"0:12:00",
+          "name":"Divekick",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":50,
-          "public":"Jazz Jackrabbit 6-Episode (Awesome Games Done Quick 2017)",
-          "release_year":1994,
-          "run_time":"0:30:39",
-          "starttime":"2017-01-10T08:15:23Z",
-          "display_name":"Jazz Jackrabbit",
+          "order":10,
+          "public":"Divekick - Story Mode (1 Character) (Distant Star Cares 2018 Extra Life)",
+          "release_year":2013,
+          "run_time":"0:15:00",
+          "starttime":"",
+          "display_name":"Divekick",
           "commentators":"",
-          "endtime":"2017-01-10T08:58:02Z",
-          "deprecated_runners":"CapnClever",
+          "endtime":"",
+          "deprecated_runners":"ShadowyMoon",
           "runners":[  
-             20
+             6
           ],
           "description":""
        }
     },
-    {  
-       "pk":1995,
+	{  
+       "pk":3010,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any%",
+          "category":"Adventure",
           "giantbomb_id":null,
           "coop":false,
-          "console":"PSX",
-          "name":"Jumping Flash! 2",
-          "setup_time":"0:14:00",
+          "console":"GCN",
+          "name":"Super Smash Bros. Melee",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":51,
-          "public":"Jumping Flash! 2 Any% (Awesome Games Done Quick 2017)",
-          "release_year":1996,
-          "run_time":"0:24:12",
-          "starttime":"2017-01-10T08:58:02Z",
-          "display_name":"Jumping Flash! 2",
+          "order":11,
+          "public":"Super Smash Bros. Melee - Adventure (Distant Star Cares 2018 Extra Life)",
+          "release_year":2001,
+          "run_time":"0:15:00",
+          "starttime":"",
+          "display_name":"Super Smash Bros. Melee",
           "commentators":"",
-          "endtime":"2017-01-10T09:36:14Z",
-          "deprecated_runners":"TonyOgbot",
+          "endtime":"",
+          "deprecated_runners":"CountGooby, Zojalyx",
           "runners":[  
-             222
+             11,
+             10
           ],
           "description":""
        }
-    },
-    {  
-       "pk":1996,
+	},
+				    {  
+       "pk":3011,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any%",
+          "category":"Target Smash All Characters",
           "giantbomb_id":null,
           "coop":false,
-          "console":"PSX",
-          "name":"Intelligent Qube (Kurushi)",
-          "setup_time":"0:20:00",
+          "console":"Wii",
+          "name":"Project M",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":52,
-          "public":"Intelligent Qube (Kurushi) Any% (Awesome Games Done Quick 2017)",
-          "release_year":1997,
-          "run_time":"0:28:32",
-          "starttime":"2017-01-10T09:36:14Z",
-          "display_name":"Intelligent Qube",
+          "order":12,
+          "public":"Project M - Target Smash All Characters (Distant Star Cares 2018 Extra Life)",
+          "release_year":2011,
+          "run_time":"1:45:00",
+          "starttime":"",
+          "display_name":"Project M",
           "commentators":"",
-          "endtime":"2017-01-10T10:24:46Z",
-          "deprecated_runners":"CaneofPacci",
+          "endtime":"",
+          "deprecated_runners":"CountGooby",
           "runners":[  
-             54
+             11
           ],
           "description":""
        }
     },
-    {  
-       "pk":1997,
+		{  
+       "pk":3012,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any% no-create",
+          "category":"Tap Runner",
           "giantbomb_id":null,
           "coop":false,
-          "console":"PS3",
-          "name":"LittleBigPlanet 3",
-          "setup_time":"0:18:18",
+          "console":"Wii",
+          "name":"Let's Tap",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":53,
-          "public":"LittleBigPlanet 3 Any% no-create (Awesome Games Done Quick 2017)",
-          "release_year":2014,
-          "run_time":"0:36:42",
-          "starttime":"2017-01-10T10:24:46Z",
-          "display_name":"LittleBigPlanet 3",
+          "order":13,
+          "public":"Let's Tap - Tap Runner (Distant Star Cares 2018 Extra Life)",
+          "release_year":2008,
+          "run_time":"0:25:00",
+          "starttime":"",
+          "display_name":"Let's Tap",
           "commentators":"",
-          "endtime":"2017-01-10T11:19:46Z",
-          "deprecated_runners":"RbdJellyfish",
+          "endtime":"",
+          "deprecated_runners":"CountGooby, Cmdr",
           "runners":[  
-             275
+             11,
+             12
           ],
           "description":""
        }
-    },
-    {  
-       "pk":1998,
+	},
+					    {  
+       "pk":3013,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any%",
+          "category":"All Cup Tour",
           "giantbomb_id":null,
           "coop":false,
-          "console":"PS2",
-          "name":"Road Trip Adventure",
-          "setup_time":"0:21:22",
+          "console":"GCN",
+          "name":"Mario Kart: Double Dash!!",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":54,
-          "public":"Road Trip Adventure Any% (Awesome Games Done Quick 2017)",
-          "release_year":2002,
-          "run_time":"0:18:38",
-          "starttime":"2017-01-10T11:19:46Z",
-          "display_name":"Road Trip Adventure",
+          "order":14,
+          "public":"Mario Kart: Double Dash!! - All Cup Tour (Distant Star Cares 2018 Extra Life)",
+          "release_year":2003,
+          "run_time":"0:45:00",
+          "starttime":"",
+          "display_name":"Mario Kart:\\nDouble Dash!!",
           "commentators":"",
-          "endtime":"2017-01-10T11:59:46Z",
-          "deprecated_runners":"Konasumi",
+          "endtime":"",
+          "deprecated_runners":"Mathew10Wilson",
           "runners":[  
-             320
+             13
           ],
           "description":""
        }
     },
-    {  
-       "pk":1999,
+					    {  
+       "pk":3014,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any%",
+          "category":"All Sports",
           "giantbomb_id":null,
           "coop":false,
-          "console":"PSX",
-          "name":"Pac-Man World",
-          "setup_time":"0:12:49",
+          "console":"Wii",
+          "name":"Wii Sports Resort",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":55,
-          "public":"Pac-Man World Any% (Awesome Games Done Quick 2017)",
-          "release_year":1999,
-          "run_time":"0:39:11",
-          "starttime":"2017-01-10T11:59:46Z",
-          "display_name":"Pac-Man World",
+          "order":15,
+          "public":"Wii Sports Resort - All Sports (Distant Star Cares 2018 Extra Life)",
+          "release_year":2009,
+          "run_time":"0:22:00",
+          "starttime":"",
+          "display_name":"Wii Sports Resort",
           "commentators":"",
-          "endtime":"2017-01-10T12:51:46Z",
-          "deprecated_runners":"Joester98",
+          "endtime":"",
+          "deprecated_runners":"Cmdr",
           "runners":[  
-             409
+             12
           ],
           "description":""
        }
     },
-    {  
-       "pk":2000,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PSX",
-          "name":"Mega Man Legends",
-          "setup_time":"0:11:03",
-          "event":19,
-          "order":56,
-          "public":"Mega Man Legends Any% (Awesome Games Done Quick 2017)",
-          "release_year":1997,
-          "run_time":"0:51:57",
-          "starttime":"2017-01-10T12:51:46Z",
-          "display_name":"Mega Man Legends",
-          "commentators":"",
-          "endtime":"2017-01-10T13:54:46Z",
-          "deprecated_runners":"BlueMetal",
-          "runners":[  
-             493
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2001,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PS2",
-          "name":"Katamari Damacy",
-          "setup_time":"0:15:07",
-          "event":19,
-          "order":57,
-          "public":"Katamari Damacy Any% (Awesome Games Done Quick 2017)",
-          "release_year":2004,
-          "run_time":"0:31:53",
-          "starttime":"2017-01-10T13:54:46Z",
-          "display_name":"Katamari Damacy",
-          "commentators":"",
-          "endtime":"2017-01-10T14:41:46Z",
-          "deprecated_runners":"sunkir",
-          "runners":[  
-             453
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2002,
+					    {  
+       "pk":3015,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"All Events",
           "giantbomb_id":null,
           "coop":false,
-          "console":"Gamecube",
-          "name":"Super Smash Bros. Melee",
-          "setup_time":"0:09:18",
-          "event":19,
-          "order":58,
-          "public":"Super Smash Bros. Melee All Events (Awesome Games Done Quick 2017)",
-          "release_year":2001,
-          "run_time":"0:37:42",
-          "starttime":"2017-01-10T14:41:46Z",
-          "display_name":"Super Smash Bros. Melee",
-          "commentators":"",
-          "endtime":"2017-01-10T15:28:46Z",
-          "deprecated_runners":"Fuzzyness",
-          "runners":[  
-             457
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2003,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Low% (6%)",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Gamecube",
-          "name":"Metroid Prime 2: Echoes",
-          "setup_time":"0:10:22",
-          "event":19,
-          "order":59,
-          "public":"Metroid Prime 2: Echoes Low% (6%) (Awesome Games Done Quick 2017)",
-          "release_year":2004,
-          "run_time":"1:40:38",
-          "starttime":"2017-01-10T15:28:46Z",
-          "display_name":"Metroid Prime 2: Echoes",
-          "commentators":"",
-          "endtime":"2017-01-10T17:19:46Z",
-          "deprecated_runners":"Miles",
-          "runners":[  
-             171
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2004,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Super Metroid Rotation",
-          "setup_time":"0:27:27",
-          "event":19,
-          "order":60,
-          "public":"Super Metroid Rotation Any% (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:44:33",
-          "starttime":"2017-01-10T17:19:46Z",
-          "display_name":"Super Metroid Rotation",
-          "commentators":"",
-          "endtime":"2017-01-10T18:31:46Z",
-          "deprecated_runners":"Feral5x",
-          "runners":[  
-             459
-          ],
-          "description":"\r\n"
-       }
-    },
-    {  
-       "pk":2005,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Dark Messiah of Might and Magic",
-          "setup_time":"0:08:37",
-          "event":19,
-          "order":61,
-          "public":"Dark Messiah of Might and Magic Any% (Awesome Games Done Quick 2017)",
-          "release_year":2006,
-          "run_time":"0:34:23",
-          "starttime":"2017-01-10T18:31:46Z",
-          "display_name":"Dark Messiah of Might and Magic",
-          "commentators":"",
-          "endtime":"2017-01-10T19:14:46Z",
-          "deprecated_runners":"Razgrillz",
-          "runners":[  
-             442
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2006,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Fallout: New Vegas",
-          "setup_time":"0:08:00",
-          "event":19,
-          "order":62,
-          "public":"Fallout: New Vegas Any% (Awesome Games Done Quick 2017)",
-          "release_year":2010,
-          "run_time":"0:24:00",
-          "starttime":"2017-01-10T19:14:46Z",
-          "display_name":"Fallout: New Vegas",
-          "commentators":"",
-          "endtime":"2017-01-10T19:46:46Z",
-          "deprecated_runners":"progamingwithed",
-          "runners":[  
-             227
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2007,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"System Shock 2",
-          "setup_time":"0:13:56",
-          "event":19,
-          "order":63,
-          "public":"System Shock 2 Any% (Awesome Games Done Quick 2017)",
-          "release_year":1999,
-          "run_time":"0:17:04",
-          "starttime":"2017-01-10T19:46:46Z",
-          "display_name":"System Shock 2",
-          "commentators":"",
-          "endtime":"2017-01-10T20:17:46Z",
-          "deprecated_runners":"M1_Account",
-          "runners":[  
-             378
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2008,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Hotshot Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Descent II",
-          "setup_time":"0:15:57",
-          "event":19,
-          "order":64,
-          "public":"Descent II Hotshot Any% (Awesome Games Done Quick 2017)",
-          "release_year":1996,
-          "run_time":"0:40:03",
-          "starttime":"2017-01-10T20:17:46Z",
-          "display_name":"Descent II",
-          "commentators":"",
-          "endtime":"2017-01-10T21:13:46Z",
-          "deprecated_runners":"SpootyBiscuit",
-          "runners":[  
-             184
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2009,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% No Sidekicks",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Daikatana",
-          "setup_time":"0:05:23",
-          "event":19,
-          "order":65,
-          "public":"Daikatana Any% No Sidekicks (Awesome Games Done Quick 2017)",
-          "release_year":2000,
-          "run_time":"0:51:37",
-          "starttime":"2017-01-10T21:13:46Z",
-          "display_name":"Daikatana",
-          "commentators":"",
-          "endtime":"2017-01-10T22:10:46Z",
-          "deprecated_runners":"Cubeface",
-          "runners":[  
-             364
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2010,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Half-Life: Blue Shift",
-          "setup_time":"0:22:29",
-          "event":19,
-          "order":66,
-          "public":"Half-Life: Blue Shift Any% (Awesome Games Done Quick 2017)",
-          "release_year":2001,
-          "run_time":"0:30:31",
-          "starttime":"2017-01-10T22:10:46Z",
-          "display_name":"Half-Life: Blue Shift",
-          "commentators":"",
-          "endtime":"2017-01-10T23:03:46Z",
-          "deprecated_runners":"Cubeface",
-          "runners":[  
-             364
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2011,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Doom (2016)",
-          "setup_time":"0:23:04",
-          "event":19,
-          "order":67,
-          "public":"Doom (2016) Any% (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:54:10",
-          "starttime":"2017-01-10T23:03:46Z",
-          "display_name":"Doom (2016)",
-          "commentators":"",
-          "endtime":"2017-01-11T00:21:00Z",
-          "deprecated_runners":"Blood_Thunder",
-          "runners":[  
-             72
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2012,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Warpless",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Super Mario Bros.",
-          "setup_time":"0:12:00",
-          "event":19,
-          "order":68,
-          "public":"Super Mario Bros. Warpless (Awesome Games Done Quick 2017)",
-          "release_year":1985,
-          "run_time":"0:20:06",
-          "starttime":"2017-01-11T00:21:00Z",
-          "display_name":"Super Mario Bros.",
-          "commentators":"",
-          "endtime":"2017-01-11T00:53:06Z",
-          "deprecated_runners":"darbian, Kosmicd12, andrewg",
-          "runners":[  
-             153,
-             401,
-             402
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2127,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Super Mario Bros.",
-          "setup_time":"0:11:00",
-          "event":19,
-          "order":69,
-          "public":"Super Mario Bros. Any% (Awesome Games Done Quick 2017)",
-          "release_year":1985,
-          "run_time":"0:05:50",
-          "starttime":"2017-01-11T00:53:06Z",
-          "display_name":"Super Mario Bros.",
-          "commentators":"",
-          "endtime":"2017-01-11T01:09:56Z",
-          "deprecated_runners":"darbian, Kosmicd12, andrewg",
-          "runners":[  
-             153,
-             401,
-             402
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2013,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% 8-4",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Famicom Disk",
-          "name":"Super Mario Bros.: The Lost Levels",
-          "setup_time":"0:24:10",
-          "event":19,
-          "order":70,
-          "public":"Super Mario Bros.: The Lost Levels Any% 8-4 (Awesome Games Done Quick 2017)",
-          "release_year":1986,
-          "run_time":"0:11:50",
-          "starttime":"2017-01-11T01:09:56Z",
-          "display_name":"Super Mario Bros: The Lost Levels",
-          "commentators":"",
-          "endtime":"2017-01-11T01:45:56Z",
-          "deprecated_runners":"darbian, Kosmicd12, andrewg",
-          "runners":[  
-             153,
-             401,
-             402
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2014,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Gamecube",
-          "name":"Super Mario Sunshine",
-          "setup_time":"0:19:38",
-          "event":19,
-          "order":71,
-          "public":"Super Mario Sunshine Any% (Awesome Games Done Quick 2017)",
-          "release_year":2002,
-          "run_time":"1:19:22",
-          "starttime":"2017-01-11T01:45:56Z",
-          "display_name":"Super Mario Sunshine",
-          "commentators":"",
-          "endtime":"2017-01-11T03:24:56Z",
-          "deprecated_runners":"Bounceyboy, PangaeaPanga, AverageTrey, StrongmanLin",
-          "runners":[  
-             343,
-             400,
-             443,
-             496
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2015,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Final Fantasy",
-          "setup_time":"0:09:33",
-          "event":19,
-          "order":72,
-          "public":"Final Fantasy Any% (Awesome Games Done Quick 2017)",
-          "release_year":1987,
-          "run_time":"3:54:27",
-          "starttime":"2017-01-11T03:24:56Z",
-          "display_name":"Final Fantasy",
-          "commentators":"",
-          "endtime":"2017-01-11T07:28:56Z",
-          "deprecated_runners":"feasel, Gyre",
-          "runners":[  
-             80,
-             190
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2016,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% co-op",
-          "giantbomb_id":null,
-          "coop":true,
-          "console":"NES",
-          "name":"Gauntlet",
-          "setup_time":"0:08:49",
-          "event":19,
-          "order":73,
-          "public":"Gauntlet Any% co-op (Awesome Games Done Quick 2017)",
-          "release_year":1987,
-          "run_time":"0:25:11",
-          "starttime":"2017-01-11T07:28:56Z",
-          "display_name":"Gauntlet",
-          "commentators":"",
-          "endtime":"2017-01-11T08:02:56Z",
-          "deprecated_runners":"feasel, Mithical9",
-          "runners":[  
-             80,
-             473
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2017,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Kabuki Quantum Fighter",
-          "setup_time":"0:08:20",
-          "event":19,
-          "order":74,
-          "public":"Kabuki Quantum Fighter Any% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:10:44",
-          "starttime":"2017-01-11T08:02:56Z",
-          "display_name":"Kabuki Quantum Fighter",
-          "commentators":"",
-          "endtime":"2017-01-11T08:22:00Z",
-          "deprecated_runners":"Mithical9",
-          "runners":[  
-             473
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2018,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Cobra Triangle",
-          "setup_time":"0:06:54",
-          "event":19,
-          "order":75,
-          "public":"Cobra Triangle Any% (Awesome Games Done Quick 2017)",
-          "release_year":1989,
-          "run_time":"0:19:06",
-          "starttime":"2017-01-11T08:22:00Z",
-          "display_name":"Cobra Triangle",
-          "commentators":"",
-          "endtime":"2017-01-11T08:48:00Z",
-          "deprecated_runners":"ShiningDragoon",
-          "runners":[  
-             69
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2019,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"The Krion Conquest",
-          "setup_time":"0:06:48",
-          "event":19,
-          "order":76,
-          "public":"The Krion Conquest Any% (Awesome Games Done Quick 2017)",
-          "release_year":1990,
-          "run_time":"0:19:12",
-          "starttime":"2017-01-11T08:48:00Z",
-          "display_name":"The Krion Conquest",
-          "commentators":"",
-          "endtime":"2017-01-11T09:14:00Z",
-          "deprecated_runners":"badbrakes",
-          "runners":[  
-             67
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2020,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Street Fighter 2010: The Final Fight",
-          "setup_time":"0:07:59",
-          "event":19,
-          "order":77,
-          "public":"Street Fighter 2010: The Final Fight Any% (Awesome Games Done Quick 2017)",
-          "release_year":1990,
-          "run_time":"0:19:01",
-          "starttime":"2017-01-11T09:14:00Z",
-          "display_name":"Street Fighter 2010: The Final Fight",
-          "commentators":"",
-          "endtime":"2017-01-11T09:41:00Z",
-          "deprecated_runners":"Spiriax",
-          "runners":[  
-             76
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2021,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"River City Ransom",
-          "setup_time":"0:09:16",
-          "event":19,
-          "order":78,
-          "public":"River City Ransom Any% (Awesome Games Done Quick 2017)",
-          "release_year":1989,
-          "run_time":"0:07:44",
-          "starttime":"2017-01-11T09:41:00Z",
-          "display_name":"River City Ransom",
-          "commentators":"",
-          "endtime":"2017-01-11T09:58:00Z",
-          "deprecated_runners":"yelsraek",
-          "runners":[  
-             405
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2022,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Famicom",
-          "name":"Moon Crystal",
-          "setup_time":"0:07:13",
-          "event":19,
-          "order":79,
-          "public":"Moon Crystal Any% (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:18:47",
-          "starttime":"2017-01-11T09:58:00Z",
-          "display_name":"Moon Crystal",
-          "commentators":"",
-          "endtime":"2017-01-11T10:24:00Z",
-          "deprecated_runners":"jimmypoopins",
-          "runners":[  
-             4
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2023,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"All Stages Normal",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Little Samson",
-          "setup_time":"0:07:19",
-          "event":19,
-          "order":80,
-          "public":"Little Samson All Stages Normal (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:20:41",
-          "starttime":"2017-01-11T10:24:00Z",
-          "display_name":"Little Samson",
-          "commentators":"",
-          "endtime":"2017-01-11T10:52:00Z",
-          "deprecated_runners":"Xdragon",
-          "runners":[  
-             472
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2024,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"The Addams Family",
-          "setup_time":"0:06:08",
-          "event":19,
-          "order":81,
-          "public":"The Addams Family Any% (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:05:52",
-          "starttime":"2017-01-11T10:52:00Z",
-          "display_name":"The Addams Family",
-          "commentators":"",
-          "endtime":"2017-01-11T11:04:00Z",
-          "deprecated_runners":"garbanzoguy",
-          "runners":[  
-             417
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2025,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Famicom",
-          "name":"Yume Penguin Monogatari",
-          "setup_time":"0:08:54",
-          "event":19,
-          "order":82,
-          "public":"Yume Penguin Monogatari Any% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:10:06",
-          "starttime":"2017-01-11T11:04:00Z",
-          "display_name":"Yume Penguin Monogatari",
-          "commentators":"",
-          "endtime":"2017-01-11T11:23:00Z",
-          "deprecated_runners":"Endy",
-          "runners":[  
-             393
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2026,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Gremlins 2",
-          "setup_time":"0:05:36",
-          "event":19,
-          "order":83,
-          "public":"Gremlins 2 Any% (Awesome Games Done Quick 2017)",
-          "release_year":1990,
-          "run_time":"0:06:24",
-          "starttime":"2017-01-11T11:23:00Z",
-          "display_name":"Gremlins 2",
-          "commentators":"",
-          "endtime":"2017-01-11T11:35:00Z",
-          "deprecated_runners":"Endy",
-          "runners":[  
-             393
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2027,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Trojan",
-          "setup_time":"0:14:56",
-          "event":19,
-          "order":84,
-          "public":"Trojan Any% (Awesome Games Done Quick 2017)",
-          "release_year":1986,
-          "run_time":"0:07:04",
-          "starttime":"2017-01-11T11:35:00Z",
-          "display_name":"Trojan",
-          "commentators":"",
-          "endtime":"2017-01-11T11:57:00Z",
-          "deprecated_runners":"InfestedRiche",
-          "runners":[  
-             156
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2028,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%, Expert, 0 Kunai",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Genesis",
-          "name":"Shinobi III: Return of the Ninja Master",
-          "setup_time":"0:09:09",
-          "event":19,
-          "order":85,
-          "public":"Shinobi III: Return of the Ninja Master Any%, Expert, 0 Kunai (Awesome Games Done Quick 2017)",
-          "release_year":1993,
-          "run_time":"0:25:51",
-          "starttime":"2017-01-11T11:57:00Z",
-          "display_name":"Shinobi III: Return of the Ninja Master",
-          "commentators":"",
-          "endtime":"2017-01-11T12:32:00Z",
-          "deprecated_runners":"Keaur",
-          "runners":[  
-             394
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2029,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Hyper Mode Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PSX",
-          "name":"Bishi Bashi Special",
-          "setup_time":"0:10:27",
-          "event":19,
-          "order":86,
-          "public":"Bishi Bashi Special Hyper Mode Any% (Awesome Games Done Quick 2017)",
-          "release_year":1998,
-          "run_time":"0:13:33",
-          "starttime":"2017-01-11T12:32:00Z",
-          "display_name":"Bishi Bashi Special",
-          "commentators":"",
-          "endtime":"2017-01-11T12:56:00Z",
-          "deprecated_runners":"T3tsuya",
-          "runners":[  
-             449
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2030,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Crowtel",
-          "setup_time":"0:07:19",
-          "event":19,
-          "order":87,
-          "public":"Crowtel Any% (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:12:41",
-          "starttime":"2017-01-11T12:56:00Z",
-          "display_name":"Crowtel",
-          "commentators":"",
-          "endtime":"2017-01-11T13:16:00Z",
-          "deprecated_runners":"theboyks",
-          "runners":[  
-             260
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1966,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Speedrun Mode: All Levels",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"SEUM: Speedrunners from Hell",
-          "setup_time":"0:10:09",
-          "event":19,
-          "order":88,
-          "public":"SEUM: Speedrunners from Hell Speedrun Mode: All Levels (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:17:51",
-          "starttime":"2017-01-11T13:16:00Z",
-          "display_name":"SEUM: Speedrunners\\nfrom Hell",
-          "commentators":"",
-          "endtime":"2017-01-11T13:44:00Z",
-          "deprecated_runners":"MattyIce3131",
-          "runners":[  
-             206
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2033,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Blitz Breaker",
-          "setup_time":"0:19:13",
-          "event":19,
-          "order":90,
-          "public":"Blitz Breaker Any% (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:24:47",
-          "starttime":"2017-01-11T13:44:00Z",
-          "display_name":"Blitz Breaker",
-          "commentators":"",
-          "endtime":"2017-01-11T14:28:00Z",
-          "deprecated_runners":"giygasblues",
-          "runners":[  
-             428
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2034,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Arcade Mode Co-Op",
-          "giantbomb_id":null,
-          "coop":true,
-          "console":"PC",
-          "name":"Secrets Of Grindea",
-          "setup_time":"0:36:31",
-          "event":19,
-          "order":91,
-          "public":"Secrets Of Grindea Arcade Mode Co-Op (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"0:20:29",
-          "starttime":"2017-01-11T14:28:00Z",
-          "display_name":"Secrets Of Grindea",
-          "commentators":"",
-          "endtime":"2017-01-11T15:25:00Z",
-          "deprecated_runners":"Ivan, Mr_Weables",
-          "runners":[  
-             306,
-             352
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2035,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"New Game+ Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Hyper Light Drifter",
-          "setup_time":"0:10:44",
-          "event":19,
-          "order":92,
-          "public":"Hyper Light Drifter New Game+ Any% (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:33:16",
-          "starttime":"2017-01-11T15:25:00Z",
-          "display_name":"Hyper Light Drifter",
-          "commentators":"",
-          "endtime":"2017-01-11T16:09:00Z",
-          "deprecated_runners":"MunchaKoopas",
-          "runners":[  
-             487
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2036,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"OREO *or* 0XP (bid war)",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Ori and the Blind Forest: Definitive Edition",
-          "setup_time":"0:18:25",
-          "event":19,
-          "order":93,
-          "public":"Ori and the Blind Forest: Definitive Edition OREO *or* 0XP (bid war) (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"0:55:35",
-          "starttime":"2017-01-11T16:09:00Z",
-          "display_name":"Ori and the Blind Forest:\\nDefinitive Edition",
-          "commentators":"",
-          "endtime":"2017-01-11T17:23:00Z",
-          "deprecated_runners":"Vulajin, sigma",
-          "runners":[  
-             19,
-             490
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2037,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Richter All Bosses",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"XBox 360",
-          "name":"BONUS: Castlevania: Symphony of the Night",
-          "setup_time":"0:20:34",
-          "event":19,
-          "order":94,
-          "public":"BONUS: Castlevania: Symphony of the Night Richter All Bosses (Awesome Games Done Quick 2017)",
-          "release_year":1997,
-          "run_time":"0:27:26",
-          "starttime":"2017-01-11T17:23:00Z",
-          "display_name":"Castlevania: Symphony of the Night",
-          "commentators":"",
-          "endtime":"2017-01-11T18:11:00Z",
-          "deprecated_runners":"Mecha Richter",
-          "runners":[  
-             316
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2038,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Castlevania",
-          "setup_time":"0:20:05",
-          "event":19,
-          "order":95,
-          "public":"Castlevania Any% (Awesome Games Done Quick 2017)",
-          "release_year":1986,
-          "run_time":"0:12:55",
-          "starttime":"2017-01-11T18:11:00Z",
-          "display_name":"Castlevania",
-          "commentators":"",
-          "endtime":"2017-01-11T18:44:00Z",
-          "deprecated_runners":"Cantaloupeme, Komrade",
-          "runners":[  
-             434,
-             447
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2039,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Super Castlevania IV",
-          "setup_time":"0:22:21",
-          "event":19,
-          "order":96,
-          "public":"Super Castlevania IV Any% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:32:39",
-          "starttime":"2017-01-11T18:44:00Z",
-          "display_name":"Super Castlevania IV",
-          "commentators":"",
-          "endtime":"2017-01-11T19:39:00Z",
-          "deprecated_runners":"Furious Paul, JoeDamillio",
-          "runners":[  
-             392,
-             414
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2040,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Maria (NG+)",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Wii VC",
-          "name":"Castlevania: Rondo of Blood",
-          "setup_time":"0:22:56",
-          "event":19,
-          "order":97,
-          "public":"Castlevania: Rondo of Blood Maria (NG+) (Awesome Games Done Quick 2017)",
-          "release_year":2010,
-          "run_time":"0:16:04",
-          "starttime":"2017-01-11T19:39:00Z",
-          "display_name":"Castlevania: Rondo of Blood",
-          "commentators":"",
-          "endtime":"2017-01-11T20:18:00Z",
-          "deprecated_runners":"Skavenger216, Komrade",
-          "runners":[  
-             39,
-             447
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2041,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Mega Man 6",
-          "setup_time":"0:10:50",
-          "event":19,
-          "order":98,
-          "public":"Mega Man 6 Any% (Awesome Games Done Quick 2017)",
-          "release_year":1993,
-          "run_time":"0:36:20",
-          "starttime":"2017-01-11T20:18:00Z",
-          "display_name":"Mega Man 6",
-          "commentators":"",
-          "endtime":"2017-01-11T21:05:10Z",
-          "deprecated_runners":"Ppotdot1",
-          "runners":[  
-             450
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2042,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Gamecube",
-          "name":"Mega Man Network Transmission",
-          "setup_time":"0:19:58",
-          "event":19,
-          "order":99,
-          "public":"Mega Man Network Transmission Any% (Awesome Games Done Quick 2017)",
-          "release_year":2003,
-          "run_time":"1:05:02",
-          "starttime":"2017-01-11T21:05:10Z",
-          "display_name":"Mega Man Network Transmission",
-          "commentators":"",
-          "endtime":"2017-01-11T22:30:10Z",
-          "deprecated_runners":"soothingplumtea",
-          "runners":[  
-             264
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2043,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"100%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Mega Man X",
-          "setup_time":"0:19:55",
-          "event":19,
-          "order":100,
-          "public":"Mega Man X 100% (Awesome Games Done Quick 2017)",
-          "release_year":1993,
-          "run_time":"0:37:05",
-          "starttime":"2017-01-11T22:30:10Z",
-          "display_name":"Mega Man X",
-          "commentators":"",
-          "endtime":"2017-01-11T23:27:10Z",
-          "deprecated_runners":"Domalix, Calebhart42, CrystalUnclear, Walrus_prime ",
-          "runners":[  
-             43,
-             462,
-             467,
-             488
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2044,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% (Beck, Maniac)",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PS4",
-          "name":"Mighty No. 9",
-          "setup_time":"0:24:02",
-          "event":19,
-          "order":101,
-          "public":"Mighty No. 9 Any% (Beck, Maniac) (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:46:58",
-          "starttime":"2017-01-11T23:27:10Z",
-          "display_name":"Mighty No. 9",
-          "commentators":"",
-          "endtime":"2017-01-12T00:38:10Z",
-          "deprecated_runners":"GreenZSaber",
-          "runners":[  
-             451
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2045,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Legendary",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"XBox 360",
-          "name":"Halo 2",
-          "setup_time":"0:18:07",
-          "event":19,
-          "order":104,
-          "public":"Halo 2 Legendary (Awesome Games Done Quick 2017)",
-          "release_year":2004,
-          "run_time":"1:42:53",
-          "starttime":"2017-01-12T00:38:10Z",
-          "display_name":"Halo 2",
-          "commentators":"",
-          "endtime":"2017-01-12T02:39:10Z",
-          "deprecated_runners":"Cryphon",
-          "runners":[  
-             470
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2046,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% (No Catwoman)",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Batman: Arkham City",
-          "setup_time":"0:16:06",
-          "event":19,
-          "order":105,
-          "public":"Batman: Arkham City Any% (No Catwoman) (Awesome Games Done Quick 2017)",
-          "release_year":2011,
-          "run_time":"1:32:54",
-          "starttime":"2017-01-12T02:39:10Z",
-          "display_name":"Batman: Arkham City",
-          "commentators":"",
-          "endtime":"2017-01-12T04:28:10Z",
-          "deprecated_runners":"BubblesDelFuego",
-          "runners":[  
-             296
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2047,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% Co-op",
-          "giantbomb_id":null,
-          "coop":true,
-          "console":"SNES",
-          "name":"Batman Forever",
-          "setup_time":"0:07:49",
-          "event":19,
-          "order":106,
-          "public":"Batman Forever Any% Co-op (Awesome Games Done Quick 2017)",
-          "release_year":1995,
-          "run_time":"0:43:11",
-          "starttime":"2017-01-12T04:28:10Z",
-          "display_name":"Batman Forever",
-          "commentators":"",
-          "endtime":"2017-01-12T05:19:10Z",
-          "deprecated_runners":"PJ, Klaige",
-          "runners":[  
-             56,
-             141
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2048,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Timecop",
-          "setup_time":"0:10:30",
-          "event":19,
-          "order":107,
-          "public":"Timecop Any% (Awesome Games Done Quick 2017)",
-          "release_year":1995,
-          "run_time":"0:26:30",
-          "starttime":"2017-01-12T05:19:10Z",
-          "display_name":"Timecop",
-          "commentators":"",
-          "endtime":"2017-01-12T05:56:10Z",
-          "deprecated_runners":"Omnigamer",
-          "runners":[  
-             333
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2049,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Cool World",
-          "setup_time":"0:07:00",
-          "event":19,
-          "order":108,
-          "public":"Cool World Any% (Awesome Games Done Quick 2017)",
-          "release_year":1993,
-          "run_time":"0:10:00",
-          "starttime":"2017-01-12T05:56:10Z",
-          "display_name":"Cool World",
-          "commentators":"",
-          "endtime":"2017-01-12T06:13:10Z",
-          "deprecated_runners":"Mecha Richter",
-          "runners":[  
-             316
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2050,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"The Adventures of Rocky and Bullwinkle and Friends",
-          "setup_time":"0:07:10",
-          "event":19,
-          "order":109,
-          "public":"The Adventures of Rocky and Bullwinkle and Friends Any% (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:17:50",
-          "starttime":"2017-01-12T06:13:10Z",
-          "display_name":"Rocky and Bullwinkle",
-          "commentators":"",
-          "endtime":"2017-01-12T06:38:10Z",
-          "deprecated_runners":"authorblues",
-          "runners":[  
-             94
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2051,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Dragon's Lair",
-          "setup_time":"0:13:34",
-          "event":19,
-          "order":110,
-          "public":"Dragon's Lair Any% (Awesome Games Done Quick 2017)",
-          "release_year":1990,
-          "run_time":"0:13:26",
-          "starttime":"2017-01-12T06:38:10Z",
-          "display_name":"Dragon's Lair",
-          "commentators":"",
-          "endtime":"2017-01-12T07:05:10Z",
-          "deprecated_runners":"SCXCR",
-          "runners":[  
-             395
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2052,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"4-Player Co-op",
-          "giantbomb_id":null,
-          "coop":true,
-          "console":"NES",
-          "name":"A Nightmare on Elm Street",
-          "setup_time":"0:08:36",
-          "event":19,
-          "order":111,
-          "public":"A Nightmare on Elm Street 4-Player Co-op (Awesome Games Done Quick 2017)",
-          "release_year":1990,
-          "run_time":"0:25:23",
-          "starttime":"2017-01-12T07:05:10Z",
-          "display_name":"A Nightmare on Elm Street",
-          "commentators":"",
-          "endtime":"2017-01-12T07:39:09Z",
-          "deprecated_runners":"Skavenger216, feasel, JamEvil, Cantaloupeme",
-          "runners":[  
-             39,
-             80,
-             268,
-             434
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2053,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Cheetahmen (Action 52)",
-          "setup_time":"0:07:23",
-          "event":19,
-          "order":112,
-          "public":"Cheetahmen (Action 52) Any% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:04:27",
-          "starttime":"2017-01-12T07:39:09Z",
-          "display_name":"The Cheetahmen",
-          "commentators":"",
-          "endtime":"2017-01-12T07:50:59Z",
-          "deprecated_runners":"huey",
-          "runners":[  
-             456
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2054,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Jesus and the Temple (Normal)",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"King of Kings: The Early Years",
-          "setup_time":"0:05:34",
-          "event":19,
-          "order":113,
-          "public":"King of Kings: The Early Years Jesus and the Temple (Normal) (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:04:26",
-          "starttime":"2017-01-12T07:50:59Z",
-          "display_name":"King of Kings:\\nThe Early Years",
-          "commentators":"",
-          "endtime":"2017-01-12T08:00:59Z",
-          "deprecated_runners":"Linkums",
-          "runners":[  
-             22
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2055,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"T&C 2: Thrilla's Surfari",
-          "setup_time":"0:05:56",
-          "event":19,
-          "order":114,
-          "public":"T&C 2: Thrilla's Surfari Any% (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:15:04",
-          "starttime":"2017-01-12T08:00:59Z",
-          "display_name":"T&C 2: Thrilla's Surfari",
-          "commentators":"",
-          "endtime":"2017-01-12T08:21:59Z",
-          "deprecated_runners":"WhiteHat94",
-          "runners":[  
-             11
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2056,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Wayne's World",
-          "setup_time":"0:10:44",
-          "event":19,
-          "order":115,
-          "public":"Wayne's World Any% (Awesome Games Done Quick 2017)",
-          "release_year":1993,
-          "run_time":"0:07:16",
-          "starttime":"2017-01-12T08:21:59Z",
-          "display_name":"Wayne's World",
-          "commentators":"",
-          "endtime":"2017-01-12T08:39:59Z",
-          "deprecated_runners":"WhiteHat94",
-          "runners":[  
-             11
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2057,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Big Nose the Caveman",
-          "setup_time":"0:16:12",
-          "event":19,
-          "order":116,
-          "public":"Big Nose the Caveman Any% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:21:48",
-          "starttime":"2017-01-12T08:39:59Z",
-          "display_name":"Big Nose the Caveman",
-          "commentators":"",
-          "endtime":"2017-01-12T09:17:59Z",
-          "deprecated_runners":"LackAttack24",
-          "runners":[  
-             342
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2058,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Game Boy Color",
-          "name":"Donkey Kong 5: The Journey of Over Time and Space",
-          "setup_time":"0:37:24",
-          "event":19,
-          "order":117,
-          "public":"Donkey Kong 5: The Journey of Over Time and Space Any% (Awesome Games Done Quick 2017)",
-          "release_year":2001,
-          "run_time":"0:09:36",
-          "starttime":"2017-01-12T09:17:59Z",
-          "display_name":"Donkey Kong 5: The Journey of Over Time and Space",
-          "commentators":"",
-          "endtime":"2017-01-12T10:04:59Z",
-          "deprecated_runners":"theboyks",
-          "runners":[  
-             260
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2059,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% Fledgling",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Catechumen",
-          "setup_time":"0:10:53",
-          "event":19,
-          "order":118,
-          "public":"Catechumen Any% Fledgling (Awesome Games Done Quick 2017)",
-          "release_year":2000,
-          "run_time":"0:24:07",
-          "starttime":"2017-01-12T10:04:59Z",
-          "display_name":"Catechumen",
-          "commentators":"",
-          "endtime":"2017-01-12T10:39:59Z",
-          "deprecated_runners":"peaches_",
-          "runners":[  
-             225
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2060,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"WolfQuest",
-          "setup_time":"0:09:35",
-          "event":19,
-          "order":119,
-          "public":"WolfQuest Any% (Awesome Games Done Quick 2017)",
-          "release_year":2007,
-          "run_time":"0:18:25",
-          "starttime":"2017-01-12T10:39:59Z",
-          "display_name":"WolfQuest",
-          "commentators":"",
-          "endtime":"2017-01-12T11:07:59Z",
-          "deprecated_runners":"Brossentia",
-          "runners":[  
-             415
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2061,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% No Credits Skip",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Cornerstone: The Song of Tyrim",
-          "setup_time":"0:17:00",
-          "event":19,
-          "order":120,
-          "public":"Cornerstone: The Song of Tyrim Any% No Credits Skip (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:33:00",
-          "starttime":"2017-01-12T11:07:59Z",
-          "display_name":"Cornerstone: The Song of Tyrim",
-          "commentators":"",
-          "endtime":"2017-01-12T11:57:59Z",
-          "deprecated_runners":"DrTChops",
-          "runners":[  
-             336
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1990,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Game Boy",
-          "name":"Adventure Island 2 (GB)",
-          "setup_time":"0:07:28",
-          "event":19,
-          "order":121,
-          "public":"Adventure Island 2 (GB) Any% (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:21:32",
-          "starttime":"2017-01-12T11:57:59Z",
-          "display_name":"Adventure Island II",
-          "commentators":"",
-          "endtime":"2017-01-12T12:26:59Z",
-          "deprecated_runners":"Ppotdot1",
-          "runners":[  
-             450
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":1993,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Game Boy",
-          "name":"Fortified Zone",
-          "setup_time":"0:08:46",
-          "event":19,
-          "order":122,
-          "public":"Fortified Zone Any% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:12:14",
-          "starttime":"2017-01-12T12:26:59Z",
-          "display_name":"Fortified Zone",
-          "commentators":"",
-          "endtime":"2017-01-12T12:47:59Z",
-          "deprecated_runners":"CuteFluffyBunny",
-          "runners":[  
-             460
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2062,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Turok: Dinosaur Hunter",
-          "setup_time":"0:19:51",
-          "event":19,
-          "order":123,
-          "public":"Turok: Dinosaur Hunter Any% (Awesome Games Done Quick 2017)",
-          "release_year":1997,
-          "run_time":"0:37:09",
-          "starttime":"2017-01-12T12:47:59Z",
-          "display_name":"Turok: Dinosaur Hunter",
-          "commentators":"",
-          "endtime":"2017-01-12T13:44:59Z",
-          "deprecated_runners":"Bawkbasoup",
-          "runners":[  
-             234
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2063,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"All Campaigns Co-op",
-          "giantbomb_id":null,
-          "coop":true,
-          "console":"PC",
-          "name":"Left 4 Dead 1",
-          "setup_time":"0:17:02",
-          "event":19,
-          "order":124,
-          "public":"Left 4 Dead 1 All Campaigns Co-op (Awesome Games Done Quick 2017)",
-          "release_year":2008,
-          "run_time":"1:02:58",
-          "starttime":"2017-01-12T13:44:59Z",
-          "display_name":"Left 4 Dead",
-          "commentators":"",
-          "endtime":"2017-01-12T15:04:59Z",
-          "deprecated_runners":"mr.deagle, The Master",
-          "runners":[  
-             24,
-             66
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2064,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Gamecube",
-          "name":"007: Nightfire",
-          "setup_time":"0:14:13",
-          "event":19,
-          "order":125,
-          "public":"007: Nightfire Any% (Awesome Games Done Quick 2017)",
-          "release_year":2002,
-          "run_time":"0:39:47",
-          "starttime":"2017-01-12T15:04:59Z",
-          "display_name":"007: Nightfire",
-          "commentators":"",
-          "endtime":"2017-01-12T15:58:59Z",
-          "deprecated_runners":"KeystoneLight",
-          "runners":[  
-             419
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2065,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Co-Op Any% Normal",
-          "giantbomb_id":null,
-          "coop":true,
           "console":"Wii",
-          "name":"Trauma Center: New Blood",
-          "setup_time":"0:21:16",
+          "name":"Mario & Sonic At The London 2012 Olympic Games",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":126,
-          "public":"Trauma Center: New Blood Co-Op Any% Normal (Awesome Games Done Quick 2017)",
-          "release_year":2007,
-          "run_time":"1:34:44",
-          "starttime":"2017-01-12T15:58:59Z",
-          "display_name":"Trauma Center: New Blood",
+          "order":16,
+          "public":"Mario & Sonic At The London 2012 Olympic Games - All Events (Distant Star Cares 2018 Extra Life)",
+          "release_year":2011,
+          "run_time":"0:50:00",
+          "starttime":"",
+          "display_name":"Mario & Sonic At The London 2012 Olympic Games",
           "commentators":"",
-          "endtime":"2017-01-12T17:54:59Z",
-          "deprecated_runners":"Irisjoker, Slurpeeninja",
+          "endtime":"",
+          "deprecated_runners":"Cmdr",
           "runners":[  
-             293,
-             416
+             12
           ],
           "description":""
        }
     },
-    {  
-       "pk":2066,
+					    {  
+       "pk":3016,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"New Game+ Extreme",
+          "category":"Any%",
           "giantbomb_id":null,
           "coop":false,
-          "console":"PC",
-          "name":"The Legend of Korra",
-          "setup_time":"0:13:35",
+          "console":"Xbox 360",
+          "name":"SpongeBob SquarePants: Battle for Bikini Bottom",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":127,
-          "public":"The Legend of Korra New Game+ Extreme (Awesome Games Done Quick 2017)",
+          "order":17,
+          "public":"SpongeBob SquarePants: Battle for Bikini Bottom - Any% (Distant Star Cares 2018 Extra Life)",
+          "release_year":2003,
+          "run_time":"1:26:00",
+          "starttime":"",
+          "display_name":"SpongeBob SquarePants:\\nBattle for Bikini Bottom",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"Knightmare",
+          "runners":[  
+             14
+          ],
+          "description":""
+       }
+    },
+					    {  
+       "pk":3017,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"All Debts",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"GCN",
+          "name":"Animal Crossing",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":18,
+          "public":"Animal Crossing - All Debts (Distant Star Cares 2018 Extra Life)",
+          "release_year":2001,
+          "run_time":"0:55:00",
+          "starttime":"",
+          "display_name":"Animal Crossing",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"tutelarfiber7",
+          "runners":[  
+             15
+          ],
+          "description":""
+       }
+    },
+					    {  
+       "pk":3018,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any% 1st Climax",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Switch",
+          "name":"Bayonetta 2",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":19,
+          "public":"Bayonetta 2 - Any% 1st Climax (Distant Star Cares 2018 Extra Life)",
           "release_year":2014,
-          "run_time":"0:40:25",
-          "starttime":"2017-01-12T17:54:59Z",
-          "display_name":"The Legend of Korra",
+          "run_time":"2:00:00",
+          "starttime":"",
+          "display_name":"Bayonetta 2",
           "commentators":"",
-          "endtime":"2017-01-12T18:48:59Z",
-          "deprecated_runners":"DolphinDasher",
+          "endtime":"",
+          "deprecated_runners":"CountGooby",
           "runners":[  
-             404
+             11
           ],
           "description":""
        }
     },
-    {  
-       "pk":2067,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Sonic",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"GBA",
-          "name":"Sonic Advance 2",
-          "setup_time":"0:10:07",
-          "event":19,
-          "order":128,
-          "public":"Sonic Advance 2 Sonic (Awesome Games Done Quick 2017)",
-          "release_year":2002,
-          "run_time":"0:27:53",
-          "starttime":"2017-01-12T18:48:59Z",
-          "display_name":"Sonic Advance 2",
-          "commentators":"",
-          "endtime":"2017-01-12T19:26:59Z",
-          "deprecated_runners":"Kirbymastah",
-          "runners":[  
-             101
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2068,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"100% (No OoB)",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Wii",
-          "name":"Sonic R",
-          "setup_time":"0:10:09",
-          "event":19,
-          "order":129,
-          "public":"Sonic R 100% (No OoB) (Awesome Games Done Quick 2017)",
-          "release_year":1997,
-          "run_time":"0:14:51",
-          "starttime":"2017-01-12T19:26:59Z",
-          "display_name":"Sonic R",
-          "commentators":"",
-          "endtime":"2017-01-12T19:51:59Z",
-          "deprecated_runners":"Keverage",
-          "runners":[  
-             249
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2069,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Dark Story",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Gamecube",
-          "name":"Sonic Adventure 2: Battle",
-          "setup_time":"0:08:10",
-          "event":19,
-          "order":130,
-          "public":"Sonic Adventure 2: Battle Dark Story (Awesome Games Done Quick 2017)",
-          "release_year":2002,
-          "run_time":"0:38:50",
-          "starttime":"2017-01-12T19:51:59Z",
-          "display_name":"Sonic Adventure 2: Battle",
-          "commentators":"",
-          "endtime":"2017-01-12T20:38:59Z",
-          "deprecated_runners":"Seraphim1313",
-          "runners":[  
-             477
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2070,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Big The Cat's Story",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"BONUS: Sonic Adventure DX: Directors Cut",
-          "setup_time":"0:31:57",
-          "event":19,
-          "order":131,
-          "public":"BONUS: Sonic Adventure DX: Directors Cut Big The Cat's Story (Awesome Games Done Quick 2017)",
-          "release_year":2003,
-          "run_time":"0:07:03",
-          "starttime":"2017-01-12T20:38:59Z",
-          "display_name":"Sonic Adventure DX: Directors Cut",
-          "commentators":"",
-          "endtime":"2017-01-12T21:17:59Z",
-          "deprecated_runners":"JerKro",
-          "runners":[  
-             397
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2071,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Blind Races",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"It's a Mystery",
-          "name":"Mystery Game Tournament",
-          "setup_time":"0:18:00",
-          "event":19,
-          "order":132,
-          "public":"Mystery Game Tournament Blind Races (Awesome Games Done Quick 2017)",
-          "release_year":2017,
-          "run_time":"1:02:00",
-          "starttime":"2017-01-12T21:17:59Z",
-          "display_name":"Mystery Game Tournament",
-          "commentators":"",
-          "endtime":"2017-01-12T22:37:59Z",
-          "deprecated_runners":"Unknown",
-          "runners":[  
-             495
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2072,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Best Ending (Co-op)",
-          "giantbomb_id":null,
-          "coop":true,
-          "console":"SNES",
-          "name":"Kirby's Dream Land 3",
-          "setup_time":"0:23:38",
-          "event":19,
-          "order":133,
-          "public":"Kirby's Dream Land 3 Best Ending (Co-op) (Awesome Games Done Quick 2017)",
-          "release_year":1997,
-          "run_time":"1:27:23",
-          "starttime":"2017-01-12T22:37:59Z",
-          "display_name":"Kirby's Dream Land 3",
-          "commentators":"",
-          "endtime":"2017-01-13T00:29:00Z",
-          "deprecated_runners":"swordsmankirby, suzuribaco",
-          "runners":[  
-             88,
-             476
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2073,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% No Major Glitches",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"The Legend of Zelda: A Link to the Past",
-          "setup_time":"0:22:25",
-          "event":19,
-          "order":134,
-          "public":"The Legend of Zelda: A Link to the Past Any% No Major Glitches (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"1:32:35",
-          "starttime":"2017-01-13T00:29:00Z",
-          "display_name":"Zelda: A Link to the Past",
-          "commentators":"",
-          "endtime":"2017-01-13T02:24:00Z",
-          "deprecated_runners":"Andy, BluntBunny, JoeDamillio, Xelna",
-          "runners":[  
-             46,
-             255,
-             414,
-             422
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2074,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Japanese Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"Gamecube",
-          "name":"Paper Mario: The Thousand-Year Door",
-          "setup_time":"0:17:34",
-          "event":19,
-          "order":135,
-          "public":"Paper Mario: The Thousand-Year Door Japanese Any% (Awesome Games Done Quick 2017)",
-          "release_year":2004,
-          "run_time":"3:25:26",
-          "starttime":"2017-01-13T02:24:00Z",
-          "display_name":"Paper Mario: The Thousand-Year Door",
-          "commentators":"",
-          "endtime":"2017-01-13T06:07:00Z",
-          "deprecated_runners":"Almo, Sjorec",
-          "runners":[  
-             193,
-             463
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2075,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"3DS",
-          "name":"The Legend of Dark Witch - Episode 2",
-          "setup_time":"0:13:37",
-          "event":19,
-          "order":136,
-          "public":"The Legend of Dark Witch - Episode 2 Any% (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"0:22:23",
-          "starttime":"2017-01-13T06:07:00Z",
-          "display_name":"The Legend of Dark Witch - Episode 2",
-          "commentators":"",
-          "endtime":"2017-01-13T06:43:00Z",
-          "deprecated_runners":"Crippe",
-          "runners":[  
-             427
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2076,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% 1 Player Co-op",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Grief Syndrome",
-          "setup_time":"0:10:49",
-          "event":19,
-          "order":137,
-          "public":"Grief Syndrome Any% 1 Player Co-op (Awesome Games Done Quick 2017)",
-          "release_year":2011,
-          "run_time":"0:19:11",
-          "starttime":"2017-01-13T06:43:00Z",
-          "display_name":"Grief Syndrome",
-          "commentators":"",
-          "endtime":"2017-01-13T07:13:00Z",
-          "deprecated_runners":"PX_",
-          "runners":[  
-             439
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2084,
+					    {  
+       "pk":3019,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"Any%",
           "giantbomb_id":null,
           "coop":false,
           "console":"PC",
-          "name":"Refunct",
-          "setup_time":"0:08:03",
+          "name":"OFF",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":138,
-          "public":"Refunct Any% (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"0:02:57",
-          "starttime":"2017-01-13T07:13:00Z",
-          "display_name":"Refunct",
+          "order":20,
+          "public":"OFF - Any% (Distant Star Cares 2018 Extra Life)",
+          "release_year":2008,
+          "run_time":"1:20:00",
+          "starttime":"",
+          "display_name":"OFF",
           "commentators":"",
-          "endtime":"2017-01-13T07:24:00Z",
-          "deprecated_runners":"097Aceofspades",
+          "endtime":"",
+          "deprecated_runners":"tutelarfiber7",
           "runners":[  
-             492
+             15
           ],
           "description":""
        }
     },
-    {  
-       "pk":2077,
+						    {  
+       "pk":3020,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"La-Mulana Remake",
-          "setup_time":"0:16:22",
-          "event":19,
-          "order":139,
-          "public":"La-Mulana Remake Any% (Awesome Games Done Quick 2017)",
-          "release_year":2012,
-          "run_time":"1:31:38",
-          "starttime":"2017-01-13T07:24:00Z",
-          "display_name":"La-Mulana Remake",
-          "commentators":"",
-          "endtime":"2017-01-13T09:12:00Z",
-          "deprecated_runners":"RaindropDry",
-          "runners":[  
-             420
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2078,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"100% All Bosses",
+          "category":"Boss - Crocodillian",
           "giantbomb_id":null,
           "coop":false,
           "console":"PS4",
-          "name":"Titan Souls",
-          "setup_time":"0:11:01",
+          "name":"Darkest Dungeon",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":140,
-          "public":"Titan Souls 100% All Bosses (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"0:19:59",
-          "starttime":"2017-01-13T09:12:00Z",
-          "display_name":"Titan Souls",
-          "commentators":"",
-          "endtime":"2017-01-13T09:43:00Z",
-          "deprecated_runners":"Zic3",
-          "runners":[  
-             432
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2079,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Bleed",
-          "setup_time":"0:05:41",
-          "event":19,
-          "order":141,
-          "public":"Bleed Any% (Awesome Games Done Quick 2017)",
-          "release_year":2012,
-          "run_time":"0:18:19",
-          "starttime":"2017-01-13T09:43:00Z",
-          "display_name":"Bleed",
-          "commentators":"",
-          "endtime":"2017-01-13T10:07:00Z",
-          "deprecated_runners":"Studio",
-          "runners":[  
-             17
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2031,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Furi",
-          "setup_time":"0:08:48",
-          "event":19,
-          "order":142,
-          "public":"Furi Any% (Awesome Games Done Quick 2017)",
+          "order":21,
+          "public":"Darkest Dungeon - Boss - Crocodillian (Distant Star Cares 2018 Extra Life)",
           "release_year":2016,
-          "run_time":"0:40:12",
-          "starttime":"2017-01-13T10:07:00Z",
-          "display_name":"Furi",
+          "run_time":"0:25:00",
+          "starttime":"",
+          "display_name":"Darkest Dungeon",
           "commentators":"",
-          "endtime":"2017-01-13T10:56:00Z",
-          "deprecated_runners":"Studio",
+          "endtime":"",
+          "deprecated_runners":"Cmdr",
           "runners":[  
-             17
+             12
           ],
           "description":""
        }
     },
-    {  
-       "pk":2080,
+						    {  
+       "pk":3021,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any% Normal Mode",
+          "category":"Arcade Mode",
           "giantbomb_id":null,
           "coop":false,
-          "console":"PC",
-          "name":"Flywrench",
-          "setup_time":"0:14:50",
+          "console":"PS2",
+          "name":"Soul Eater: Battle Resonance",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":143,
-          "public":"Flywrench Any% Normal Mode (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"0:26:10",
-          "starttime":"2017-01-13T10:56:00Z",
-          "display_name":"Flywrench",
+          "order":22,
+          "public":"Soul Eater: Battle Resonance - Arcade Mode (Distant Star Cares 2018 Extra Life)",
+          "release_year":2009,
+          "run_time":"0:30:00",
+          "starttime":"",
+          "display_name":"Soul Eater: Battle Resonance",
           "commentators":"",
-          "endtime":"2017-01-13T11:37:00Z",
-          "deprecated_runners":"killingpepsi, SsupNerds",
-          "runners":[  
-             429,
-             458
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2081,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Snailiad",
-          "setup_time":"0:09:43",
-          "event":19,
-          "order":144,
-          "public":"Snailiad Any% (Awesome Games Done Quick 2017)",
-          "release_year":2011,
-          "run_time":"0:07:17",
-          "starttime":"2017-01-13T11:37:00Z",
-          "display_name":"Snailiad",
-          "commentators":"",
-          "endtime":"2017-01-13T11:54:00Z",
-          "deprecated_runners":"Bismuth",
-          "runners":[  
-             423
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2082,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% 1.0",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Human: Fall Flat",
-          "setup_time":"0:06:16",
-          "event":19,
-          "order":145,
-          "public":"Human: Fall Flat Any% 1.0 (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:08:44",
-          "starttime":"2017-01-13T11:54:00Z",
-          "display_name":"Human: Fall Flat",
-          "commentators":"",
-          "endtime":"2017-01-13T12:09:00Z",
-          "deprecated_runners":"Bullets",
-          "runners":[  
-             483
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2083,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Action Henk",
-          "setup_time":"0:08:21",
-          "event":19,
-          "order":146,
-          "public":"Action Henk Any% (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"0:15:39",
-          "starttime":"2017-01-13T12:09:00Z",
-          "display_name":"Action Henk",
-          "commentators":"",
-          "endtime":"2017-01-13T12:33:00Z",
-          "deprecated_runners":"badBlackShark",
-          "runners":[  
-             411
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2085,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Woolfe: The Red Hood Diaries",
-          "setup_time":"0:16:41",
-          "event":19,
-          "order":147,
-          "public":"Woolfe: The Red Hood Diaries Any% (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"0:17:19",
-          "starttime":"2017-01-13T12:33:00Z",
-          "display_name":"Woolfe: The Red Hood Diaries",
-          "commentators":"",
-          "endtime":"2017-01-13T13:07:00Z",
-          "deprecated_runners":"RandomPinkBunny",
-          "runners":[  
-             123
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2086,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% Easy",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"DuckTales",
-          "setup_time":"0:10:41",
-          "event":19,
-          "order":148,
-          "public":"DuckTales Any% Easy (Awesome Games Done Quick 2017)",
-          "release_year":1989,
-          "run_time":"0:07:19",
-          "starttime":"2017-01-13T13:07:00Z",
-          "display_name":"DuckTales",
-          "commentators":"",
-          "endtime":"2017-01-13T13:25:00Z",
-          "deprecated_runners":"Endy, garadas21",
-          "runners":[  
-             393,
-             399
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2087,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Star Wars: Shadows of the Empire",
-          "setup_time":"0:10:55",
-          "event":19,
-          "order":149,
-          "public":"Star Wars: Shadows of the Empire Any% (Awesome Games Done Quick 2017)",
-          "release_year":1996,
-          "run_time":"0:52:05",
-          "starttime":"2017-01-13T13:25:00Z",
-          "display_name":"Star Wars: Shadows of the Empire",
-          "commentators":"",
-          "endtime":"2017-01-13T14:28:00Z",
-          "deprecated_runners":"glasnonck",
-          "runners":[  
-             322
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2088,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% Jedi",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Super Star Wars: Return of the Jedi",
-          "setup_time":"0:24:01",
-          "event":19,
-          "order":150,
-          "public":"Super Star Wars: Return of the Jedi Any% Jedi (Awesome Games Done Quick 2017)",
-          "release_year":1994,
-          "run_time":"0:39:59",
-          "starttime":"2017-01-13T14:28:00Z",
-          "display_name":"Super Star Wars:\\nReturn of the Jedi",
-          "commentators":"",
-          "endtime":"2017-01-13T15:32:00Z",
-          "deprecated_runners":"Striker",
+          "endtime":"",
+          "deprecated_runners":"tokko_tomcat",
           "runners":[  
              16
           ],
           "description":""
        }
     },
-    {  
-       "pk":2089,
+			{  
+       "pk":3022,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any%",
+          "category":"Beat The Game",
           "giantbomb_id":null,
           "coop":false,
-          "console":"Neo-Geo",
-          "name":"Metal Slug 3",
-          "setup_time":"0:14:06",
+          "console":"PS2",
+          "name":"Tom & Jerry in House Trap",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":151,
-          "public":"Metal Slug 3 Any% (Awesome Games Done Quick 2017)",
+          "order":23,
+          "public":"Tom & Jerry in House Trap - Beat The Game (Distant Star Cares 2018 Extra Life)",
           "release_year":2000,
-          "run_time":"0:31:54",
-          "starttime":"2017-01-13T15:32:00Z",
-          "display_name":"Metal Slug 3",
+          "run_time":"0:30:00",
+          "starttime":"",
+          "display_name":"Tom & Jerry in House Trap",
           "commentators":"",
-          "endtime":"2017-01-13T16:18:00Z",
-          "deprecated_runners":"Jackafur",
+          "endtime":"",
+          "deprecated_runners":"ShadowyMoon, GhostSenpai",
           "runners":[  
-             480
+             6,
+             17
           ],
           "description":""
        }
-    },
-    {  
-       "pk":2090,
+	},
+		{  
+       "pk":3023,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Contra",
-          "setup_time":"0:06:20",
-          "event":19,
-          "order":152,
-          "public":"Contra Any% (Awesome Games Done Quick 2017)",
-          "release_year":1987,
-          "run_time":"0:10:40",
-          "starttime":"2017-01-13T16:18:00Z",
-          "display_name":"Contra",
-          "commentators":"",
-          "endtime":"2017-01-13T16:35:00Z",
-          "deprecated_runners":"TheMexicanRunner, Toad22484",
-          "runners":[  
-             87,
-             418
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2091,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Super C",
-          "setup_time":"0:17:34",
-          "event":19,
-          "order":153,
-          "public":"Super C Any% (Awesome Games Done Quick 2017)",
-          "release_year":1998,
-          "run_time":"0:14:26",
-          "starttime":"2017-01-13T16:35:00Z",
-          "display_name":"Super C",
-          "commentators":"",
-          "endtime":"2017-01-13T17:07:00Z",
-          "deprecated_runners":"Toad22484",
-          "runners":[  
-             418
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2092,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"DS",
-          "name":"Contra 4",
-          "setup_time":"0:10:02",
-          "event":19,
-          "order":154,
-          "public":"Contra 4 Any% (Awesome Games Done Quick 2017)",
-          "release_year":2007,
-          "run_time":"0:24:58",
-          "starttime":"2017-01-13T17:07:00Z",
-          "display_name":"Contra 4",
-          "commentators":"",
-          "endtime":"2017-01-13T17:42:00Z",
-          "deprecated_runners":"Mr. K",
-          "runners":[  
-             383
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2093,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Deathwarps",
           "giantbomb_id":null,
           "coop":false,
           "console":"SNES",
-          "name":"Contra III: The Alien Wars",
-          "setup_time":"0:12:04",
+          "name":"Tiny Toon Adventures: Buster Busts Loose",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":155,
-          "public":"Contra III: The Alien Wars Deathwarps (Awesome Games Done Quick 2017)",
+          "order":24,
+          "public":"Tiny Toon Adventures: Buster Busts Loose - Any% (Distant Star Cares 2018 Extra Life)",
           "release_year":1992,
-          "run_time":"0:06:56",
-          "starttime":"2017-01-13T17:42:00Z",
-          "display_name":"Contra III: The Alien Wars",
+          "run_time":"0:36:00",
+          "starttime":"",
+          "display_name":"Tiny Toon Adventures:\\nBuster Busts Loose",
           "commentators":"",
-          "endtime":"2017-01-13T18:01:00Z",
-          "deprecated_runners":"Mr. K",
+          "endtime":"",
+          "deprecated_runners":"sgtsaltandpepper",
           "runners":[  
-             383
+             18
           ],
           "description":""
        }
     },
-    {  
-       "pk":2094,
+		{  
+       "pk":3024,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"100%",
           "giantbomb_id":null,
           "coop":false,
-          "console":"PSX",
-          "name":"Crash Bandicoot 2: Cortex Strikes Back",
-          "setup_time":"0:10:03",
+          "console":"Xbox",
+          "name":"Scooby-Doo! Night of 100 Frights",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":156,
-          "public":"Crash Bandicoot 2: Cortex Strikes Back 100% (Awesome Games Done Quick 2017)",
-          "release_year":1997,
-          "run_time":"1:20:57",
-          "starttime":"2017-01-13T18:01:00Z",
-          "display_name":"Crash Bandicoot 2: Cortex Strikes Back",
+          "order":25,
+          "public":"Scooby-Doo! Night of 100 Frights - 100% (Distant Star Cares 2018 Extra Life)",
+          "release_year":2002,
+          "run_time":"2:40:00",
+          "starttime":"",
+          "display_name":"Scooby-Doo! Night of 100 Frights",
           "commentators":"",
-          "endtime":"2017-01-13T19:32:00Z",
-          "deprecated_runners":"SwordofSeals",
+          "endtime":"",
+          "deprecated_runners":"Admiral",
           "runners":[  
-             436
+             19
           ],
           "description":""
        }
     },
-    {  
-       "pk":2095,
+						    {  
+       "pk":3025,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any% Warpless",
+          "category":"Beat The Game",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"GEN",
+          "name":"Sonic the Hedgehog",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":26,
+          "public":"Sonic the Hedgehog - Beat The Game (Distant Star Cares 2018 Extra Life)",
+          "release_year":1991,
+          "run_time":"0:32:00",
+          "starttime":"",
+          "display_name":"Sonic the Hedgehog",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"Mathew10Wilson",
+          "runners":[  
+             13
+          ],
+          "description":""
+       }
+    },
+		{  
+       "pk":3026,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Tails: Beat The Game",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"GEN",
+          "name":"Sonic the Hedgehog 2",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":27,
+          "public":"Sonic the Hedgehog 2 - Tails: Beat The Game (Distant Star Cares 2018 Extra Life)",
+          "release_year":1992,
+          "run_time":"0:35:00",
+          "starttime":"",
+          "display_name":"Sonic the Hedgehog 2",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"Mathew10Wilson",
+          "runners":[  
+             13
+          ],
+          "description":""
+       }
+    },
+			{  
+       "pk":3027,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Beat The Game",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"GEN",
+          "name":"Sonic 3D Blast",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":28,
+          "public":"Sonic 3D Blast - Beat The Game (Distant Star Cares 2018 Extra Life)",
+          "release_year":1996,
+          "run_time":"0:40:00",
+          "starttime":"",
+          "display_name":"Sonic 3D Blast",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"Argick",
+          "runners":[  
+             20
+          ],
+          "description":""
+       }
+    },
+				{  
+       "pk":3028,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Sonic & Tails",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PC",
+          "name":"Sonic Mania Plus",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":29,
+          "public":"Sonic Mania Plus - Sonic & Tails (Distant Star Cares 2018 Extra Life)",
+          "release_year":2018,
+          "run_time":"1:00:00",
+          "starttime":"",
+          "display_name":"Sonic Mania Plus",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"Argick",
+          "runners":[  
+             20
+          ],
+          "description":""
+       }
+    },
+					{  
+       "pk":3029,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Sonic + Tails Any%",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PC",
+          "name":"Sonic CD (2011)",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":30,
+          "public":"Sonic CD (2011) - Sonic + Tails Any% (Distant Star Cares 2018 Extra Life)",
+          "release_year":2011,
+          "run_time":"0:50:00",
+          "starttime":"",
+          "display_name":"Sonic CD (2011)",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"JasperTheFish, Mathew10Wilson",
+          "runners":[  
+             21,
+             13
+          ],
+          "description":""
+       }
+    },
+					{  
+       "pk":3030,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Carol Any%",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PC",
+          "name":"Freedom Planet",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":31,
+          "public":"Freedom Planet - Carol Any% (Distant Star Cares 2018 Extra Life)",
+          "release_year":2014,
+          "run_time":"0:55:00",
+          "starttime":"",
+          "display_name":"Freedom Planet",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"El_Nacho",
+          "runners":[  
+             24
+          ],
+          "description":""
+       }
+    },
+						{  
+       "pk":3031,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"No Major Glitches",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"SNES",
+          "name":"The Legend of Zelda: A Link to the Past",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":32,
+          "public":"The Legend of Zelda: A Link to the Past - No Major Glitches (Distant Star Cares 2018 Extra Life)",
+          "release_year":1991,
+          "run_time":"1:50:00",
+          "starttime":"",
+          "display_name":"The Legend of Zelda:\\nA Link to the Past",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"Mageius",
+          "runners":[  
+             22
+          ],
+          "description":""
+       }
+    },
+						{  
+       "pk":3032,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any% (No Item Glitch)",
           "giantbomb_id":null,
           "coop":false,
           "console":"PSX",
-          "name":"Crash Team Racing",
+          "name":"Crash Bandicoot 3: Warped",
           "setup_time":"0:10:00",
           "event":19,
-          "order":157,
-          "public":"Crash Team Racing Any% Warpless (Awesome Games Done Quick 2017)",
-          "release_year":1999,
-          "run_time":"0:52:56",
-          "starttime":"2017-01-13T19:32:00Z",
-          "display_name":"Crash Team Racing",
+          "order":33,
+          "public":"Crash Bandicoot 3: Warped - Any% (No Item Glitch) (Distant Star Cares 2018 Extra Life)",
+          "release_year":1998,
+          "run_time":"1:05:00",
+          "starttime":"",
+          "display_name":"Crash Bandicoot 3:\\nWarped",
           "commentators":"",
-          "endtime":"2017-01-13T20:34:56Z",
-          "deprecated_runners":"Natty",
+          "endtime":"",
+          "deprecated_runners":"GhostSenpai",
           "runners":[  
-             482
+             17
           ],
           "description":""
        }
-    },
-    {  
-       "pk":2096,
+    },	
+						{  
+       "pk":3033,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"Any%",
@@ -4007,765 +871,438 @@
           "coop":false,
           "console":"PS2",
           "name":"Sly Cooper and the Thievius Raccoonus",
-          "setup_time":"0:20:00",
-          "event":19,
-          "order":158,
-          "public":"Sly Cooper and the Thievius Raccoonus Any% (Awesome Games Done Quick 2017)",
-          "release_year":2002,
-          "run_time":"1:01:04",
-          "starttime":"2017-01-13T20:34:56Z",
-          "display_name":"Sly Cooper and\\nthe Thievius Raccoonus",
-          "commentators":"",
-          "endtime":"2017-01-13T21:56:00Z",
-          "deprecated_runners":"tHmCS",
-          "runners":[  
-             377
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2097,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PS2",
-          "name":"Jak and Daxter: The Precursor Legacy",
           "setup_time":"0:10:00",
           "event":19,
-          "order":159,
-          "public":"Jak and Daxter: The Precursor Legacy Any% (Awesome Games Done Quick 2017)",
-          "release_year":2001,
-          "run_time":"0:25:35",
-          "starttime":"2017-01-13T21:56:00Z",
-          "display_name":"Jak and Daxter:\\nThe Precursor Legacy",
-          "commentators":"",
-          "endtime":"2017-01-13T22:31:35Z",
-          "deprecated_runners":"headstrong1290",
-          "runners":[  
-             376
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2098,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"NG+ No IMG",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PS2",
-          "name":"Ratchet & Clank: Going Commando",
-          "setup_time":"0:28:44",
-          "event":19,
-          "order":160,
-          "public":"Ratchet & Clank: Going Commando NG+ No IMG (Awesome Games Done Quick 2017)",
-          "release_year":2003,
-          "run_time":"0:30:16",
-          "starttime":"2017-01-13T22:31:35Z",
-          "display_name":"Ratchet & Clank:\\nGoing Commando",
-          "commentators":"",
-          "endtime":"2017-01-13T23:30:35Z",
-          "deprecated_runners":"Xem, Skitz",
-          "runners":[  
-             165,
-             471
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2099,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"100%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Kirby Super Star",
-          "setup_time":"0:12:43",
-          "event":19,
-          "order":161,
-          "public":"Kirby Super Star 100% (Awesome Games Done Quick 2017)",
-          "release_year":1996,
-          "run_time":"1:18:17",
-          "starttime":"2017-01-13T23:30:35Z",
-          "display_name":"Kirby Super Star",
-          "commentators":"",
-          "endtime":"2017-01-14T01:01:35Z",
-          "deprecated_runners":"Countdown42, usedpizza, zzzhonki, suzuribaco",
-          "runners":[  
-             247,
-             286,
-             475,
-             476
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2100,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Bad Ending",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Not Another Needle Game",
-          "setup_time":"0:38:45",
-          "event":19,
-          "order":162,
-          "public":"Not Another Needle Game Bad Ending (Awesome Games Done Quick 2017)",
-          "release_year":2014,
-          "run_time":"0:38:15",
-          "starttime":"2017-01-14T01:01:35Z",
-          "display_name":"Not Another\\nNeedle Game",
-          "commentators":"",
-          "endtime":"2017-01-14T02:18:35Z",
-          "deprecated_runners":"Stinkycheeseone890",
-          "runners":[  
-             446
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2101,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Trilogy Relay",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Donkey Kong Country Trilogy Relay",
-          "setup_time":"0:20:44",
-          "event":19,
-          "order":163,
-          "public":"Donkey Kong Country Trilogy Relay Trilogy Relay (Awesome Games Done Quick 2017)",
-          "release_year":1994,
-          "run_time":"2:12:16",
-          "starttime":"2017-01-14T02:18:35Z",
-          "display_name":"Donkey Kong Country",
-          "commentators":"",
-          "endtime":"2017-01-14T04:51:35Z",
-          "deprecated_runners":"Eazinn, V0oid, Nocturne_, Fathlo23, Silent Wolf, Supreme, Kanis999, waffle42, suzuribaco",
-          "runners":[  
-             35,
-             98,
-             236,
-             379,
-             381,
-             390,
-             430,
-             437,
-             476
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2102,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any% no ACE",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"PC",
-          "name":"Grand Theft Auto: Vice City",
-          "setup_time":"0:22:49",
-          "event":19,
-          "order":164,
-          "public":"Grand Theft Auto: Vice City Any% no ACE (Awesome Games Done Quick 2017)",
+          "order":34,
+          "public":"Sly Cooper and the Thievius Raccoonus - Any% (Distant Star Cares 2018 Extra Life)",
           "release_year":2002,
-          "run_time":"0:56:11",
-          "starttime":"2017-01-14T04:51:35Z",
-          "display_name":"Grand Theft Auto:\\nVice City",
+          "run_time":"1:05:00",
+          "starttime":"",
+          "display_name":"Sly Cooper and the\\nThievius Raccoonus",
           "commentators":"",
-          "endtime":"2017-01-14T06:10:35Z",
-          "deprecated_runners":"KZ_FREW",
+          "endtime":"",
+          "deprecated_runners":"smartalec0624",
           "runners":[  
-             410
+             23
           ],
           "description":""
        }
     },
-    {  
-       "pk":2103,
+						{  
+       "pk":3034,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"3DS",
-          "name":"Super Mario 3D Land",
-          "setup_time":"0:14:40",
-          "event":19,
-          "order":165,
-          "public":"Super Mario 3D Land Any% (Awesome Games Done Quick 2017)",
-          "release_year":2011,
-          "run_time":"0:56:20",
-          "starttime":"2017-01-14T06:10:35Z",
-          "display_name":"Super Mario 3D Land",
-          "commentators":"",
-          "endtime":"2017-01-14T07:21:35Z",
-          "deprecated_runners":"Kosmicd12",
-          "runners":[  
-             401
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2104,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"GBA",
-          "name":"The Legend of Zelda: The Minish Cap",
-          "setup_time":"0:13:12",
-          "event":19,
-          "order":166,
-          "public":"The Legend of Zelda: The Minish Cap Any% (Awesome Games Done Quick 2017)",
-          "release_year":2004,
-          "run_time":"1:54:48",
-          "starttime":"2017-01-14T07:21:35Z",
-          "display_name":"The Legend of Zelda: The Minish Cap",
-          "commentators":"",
-          "endtime":"2017-01-14T09:29:35Z",
-          "deprecated_runners":"DbX",
-          "runners":[  
-             425
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2105,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"GBA",
-          "name":"Fire Emblem: Blazing Sword",
-          "setup_time":"0:11:32",
-          "event":19,
-          "order":167,
-          "public":"Fire Emblem: Blazing Sword Any% (Awesome Games Done Quick 2017)",
-          "release_year":2003,
-          "run_time":"1:21:28",
-          "starttime":"2017-01-14T09:29:35Z",
-          "display_name":"Fire Emblem: Blazing Sword",
-          "commentators":"",
-          "endtime":"2017-01-14T11:02:35Z",
-          "deprecated_runners":"Kirbymastah",
-          "runners":[  
-             101
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2106,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
+          "category":"Playstation 2",
           "giantbomb_id":null,
           "coop":false,
           "console":"PS2",
-          "name":"Disney's Extreme Skate Adventure",
-          "setup_time":"0:10:29",
+          "name":"Street Fighter Alpha 2",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":168,
-          "public":"Disney's Extreme Skate Adventure Any% (Awesome Games Done Quick 2017)",
-          "release_year":2003,
-          "run_time":"0:16:31",
-          "starttime":"2017-01-14T11:02:35Z",
-          "display_name":"Disney's Extreme Skate Adventure",
+          "order":35,
+          "public":"Street Fighter Alpha 2 - Playstation 2 (Distant Star Cares 2018 Extra Life)",
+          "release_year":2006,
+          "run_time":"0:30:00",
+          "starttime":"",
+          "display_name":"Street Fighter Alpha 2",
           "commentators":"",
-          "endtime":"2017-01-14T11:29:35Z",
-          "deprecated_runners":"Six",
+          "endtime":"",
+          "deprecated_runners":"tokko_tomcat",
           "runners":[  
-             464
+             16
           ],
           "description":""
        }
     },
-    {  
-       "pk":2107,
+						{  
+       "pk":3035,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Astronaut Bob O.",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PSX",
+          "name":"Vigilante 8: Second Offense",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":36,
+          "public":"Vigilante 8: Second Offense - Astronaut Bob O. (Distant Star Cares 2018 Extra Life)",
+          "release_year":1999,
+          "run_time":"0:15:00",
+          "starttime":"",
+          "display_name":"Vigilante 8:\\nSecond Offense",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"El_Nacho",
+          "runners":[  
+             24
+          ],
+          "description":""
+       }
+    },
+						{  
+       "pk":3036,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any% Easy",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PSX",
+          "name":"Spider-Man (2000)",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":37,
+          "public":"Spider-Man (2000) - Any% Easy (Distant Star Cares 2018 Extra Life)",
+          "release_year":2000,
+          "run_time":"0:55:00",
+          "starttime":"",
+          "display_name":"Spider-Man (2000)",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"Zojalyx",
+          "runners":[  
+             10
+          ],
+          "description":""
+       }
+    },
+						{  
+       "pk":3037,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"God Mode (Specter Knight)",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PC",
+          "name":"Shovel Knight",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":38,
+          "public":"Shovel Knight - God Mode (Specter Knight) (Distant Star Cares 2018 Extra Life)",
+          "release_year":2017,
+          "run_time":"0:33:00",
+          "starttime":"",
+          "display_name":"Shovel Knight",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"JasperTheFish",
+          "runners":[  
+             21
+          ],
+          "description":""
+       }
+    },
+						{  
+       "pk":3038,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Chronicles of the Sword",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PS2",
+          "name":"Soul Calibur III",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":39,
+          "public":"Soul Calibur III - Chronicles of the Sword (Distant Star Cares 2018 Extra Life)",
+          "release_year":2005,
+          "run_time":"4:05:00",
+          "starttime":"",
+          "display_name":"Soul Calibur III",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"MSKain",
+          "runners":[  
+             25
+          ],
+          "description":""
+       }
+    },
+						{  
+       "pk":3039,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"Any%",
           "giantbomb_id":null,
           "coop":false,
-          "console":"SNES",
-          "name":"Pitfall: the Mayan Adventure",
-          "setup_time":"0:11:01",
+          "console":"PC",
+          "name":"Advanced Dungeons & Dragons: Pool of Radiance",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":169,
-          "public":"Pitfall: the Mayan Adventure Any% (Awesome Games Done Quick 2017)",
-          "release_year":1994,
-          "run_time":"0:10:59",
-          "starttime":"2017-01-14T11:29:35Z",
-          "display_name":"Pitfall: the Mayan Adventure",
+          "order":40,
+          "public":"Advanced Dungeons & Dragons: Pool of Radiance - Any% (Distant Star Cares 2018 Extra Life)",
+          "release_year":1988,
+          "run_time":"1:55:00",
+          "starttime":"",
+          "display_name":"Advanced Dungeons & Dragons:\\nPool of Radiance",
           "commentators":"",
-          "endtime":"2017-01-14T11:51:35Z",
-          "deprecated_runners":"Le Hulk",
+          "endtime":"",
+          "deprecated_runners":"MSKain",
           "runners":[  
-             403
+             25
           ],
           "description":""
        }
     },
-    {  
-       "pk":2108,
+						{  
+       "pk":3040,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any%",
+          "category":"Bad Ending Any% Steam",
           "giantbomb_id":null,
           "coop":false,
-          "console":"NES",
-          "name":"Tiny Toon Adventures",
-          "setup_time":"0:09:25",
+          "console":"PC",
+          "name":"Mad Father",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":170,
-          "public":"Tiny Toon Adventures Any% (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:13:35",
-          "starttime":"2017-01-14T11:51:35Z",
-          "display_name":"Tiny Toon Adventures",
+          "order":41,
+          "public":"Mad Father - Bad Ending Any% Steam (Distant Star Cares 2018 Extra Life)",
+          "release_year":2012,
+          "run_time":"0:38:00",
+          "starttime":"",
+          "display_name":"Mad Father",
           "commentators":"",
-          "endtime":"2017-01-14T12:14:35Z",
-          "deprecated_runners":"garadas21",
+          "endtime":"",
+          "deprecated_runners":"Linkameister",
           "runners":[  
-             399
+             7
           ],
           "description":""
        }
     },
-    {  
-       "pk":2109,
+						{  
+       "pk":3041,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"Tom and Jerry",
-          "setup_time":"0:11:33",
-          "event":19,
-          "order":171,
-          "public":"Tom and Jerry Any% (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:14:27",
-          "starttime":"2017-01-14T12:14:35Z",
-          "display_name":"Tom and Jerry",
-          "commentators":"",
-          "endtime":"2017-01-14T12:40:35Z",
-          "deprecated_runners":"R3DninjaJOSH",
-          "runners":[  
-             109
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2110,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"Darkwing Duck",
-          "setup_time":"0:15:18",
-          "event":19,
-          "order":172,
-          "public":"Darkwing Duck Any% (Awesome Games Done Quick 2017)",
-          "release_year":1992,
-          "run_time":"0:13:42",
-          "starttime":"2017-01-14T12:40:35Z",
-          "display_name":"Darkwing Duck",
-          "commentators":"",
-          "endtime":"2017-01-14T13:09:35Z",
-          "deprecated_runners":"TheMexicanRunner",
-          "runners":[  
-             87
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2111,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"XBox",
-          "name":"SpongeBob SquarePants: Battle for Bikini Bottom",
-          "setup_time":"0:24:38",
-          "event":19,
-          "order":173,
-          "public":"SpongeBob SquarePants: Battle for Bikini Bottom Any% (Awesome Games Done Quick 2017)",
-          "release_year":2003,
-          "run_time":"1:02:22",
-          "starttime":"2017-01-14T13:09:35Z",
-          "display_name":"SpongeBob SquarePants: Battle for Bikini Bottom",
-          "commentators":"",
-          "endtime":"2017-01-14T14:36:35Z",
-          "deprecated_runners":"SHiFT",
-          "runners":[  
-             466
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2112,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
+          "category":"32 Tracks",
           "giantbomb_id":null,
           "coop":false,
           "console":"Wii",
-          "name":"Super Mario Galaxy 2",
-          "setup_time":"0:19:18",
+          "name":"Mario Kart Wii",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":174,
-          "public":"Super Mario Galaxy 2 Any% (Awesome Games Done Quick 2017)",
-          "release_year":2010,
-          "run_time":"3:08:12",
-          "starttime":"2017-01-14T14:36:35Z",
-          "display_name":"Super Mario Galaxy 2",
+          "order":42,
+          "public":"Mario Kart Wii - 32 Tracks (Distant Star Cares 2018 Extra Life)",
+          "release_year":2008,
+          "run_time":"1:30:00",
+          "starttime":"",
+          "display_name":"Mario Kart Wii",
           "commentators":"",
-          "endtime":"2017-01-14T18:04:05Z",
-          "deprecated_runners":"Vallu",
+          "endtime":"",
+          "deprecated_runners":"Cmdr",
           "runners":[  
-             398
+             12
           ],
           "description":""
        }
     },
-    {  
-       "pk":2113,
+						{  
+       "pk":3042,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any% New Game+",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Xbox",
+          "name":"Shenmue 2",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":43,
+          "public":"Shenmue II - Any% New Game+ (Distant Star Cares 2018 Extra Life)",
+          "release_year":2002,
+          "run_time":"2:40:00",
+          "starttime":"",
+          "display_name":"Shenmue II",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"CountGooby",
+          "runners":[  
+             11
+          ],
+          "description":""
+       }
+    },
+						{  
+       "pk":3043,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"Any%",
           "giantbomb_id":null,
           "coop":false,
-          "console":"SNES",
-          "name":"Super Dram World",
-          "setup_time":"0:30:57",
+          "console":"N64",
+          "name":"Star Wars: Rogue Squadron",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":175,
-          "public":"Super Dram World Any% (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"0:33:03",
-          "starttime":"2017-01-14T18:04:05Z",
-          "display_name":"Super Dram World",
+          "order":44,
+          "public":"Star Wars: Rogue Squadron - Any% (Distant Star Cares 2018 Extra Life)",
+          "release_year":1998,
+          "run_time":"1:15:00",
+          "starttime":"",
+          "display_name":"Star Wars:\\nRogue Squadron",
           "commentators":"",
-          "endtime":"2017-01-14T19:08:05Z",
-          "deprecated_runners":"grandpoobear",
+          "endtime":"",
+          "deprecated_runners":"Rakanai",
           "runners":[  
-             349
+             26
           ],
           "description":""
        }
     },
-    {  
-       "pk":2114,
+						{  
+       "pk":3044,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"Any% 2 Players 1 Controller",
-          "giantbomb_id":null,
-          "coop":true,
-          "console":"SNES",
-          "name":"BONUS: Super Mario Bros.: The Lost Levels",
-          "setup_time":"0:21:03",
-          "event":19,
-          "order":176,
-          "public":"BONUS: Super Mario Bros.: The Lost Levels Any% 2 Players 1 Controller (Awesome Games Done Quick 2017)",
-          "release_year":1993,
-          "run_time":"0:23:57",
-          "starttime":"2017-01-14T19:08:05Z",
-          "display_name":"Super Mario Bros.: The Lost Levels",
-          "commentators":"",
-          "endtime":"2017-01-14T19:53:05Z",
-          "deprecated_runners":"GameJ06, andrewg",
-          "runners":[  
-             242,
-             402
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2115,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"with micro500, MediaMagnet, and Spikestuff",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES Classic",
-          "name":"TASBot vs NES Classic",
-          "setup_time":"0:01:00",
-          "event":19,
-          "order":177,
-          "public":"TASBot vs NES Classic with micro500, MediaMagnet, and Spikestuff (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:02:30",
-          "starttime":"2017-01-14T19:53:05Z",
-          "display_name":"TASBot vs.\\nNES Classic",
-          "commentators":"",
-          "endtime":"2017-01-14T19:56:35Z",
-          "deprecated_runners":"dwangoAC",
-          "runners":[  
-             127
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2130,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"by adelikat and link_7777",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES Classic",
-          "name":"BONUS TAS: TASBot's Revenge: Gradius Round 2",
-          "setup_time":"0:01:00",
-          "event":19,
-          "order":178,
-          "public":"BONUS TAS: TASBot's Revenge: Gradius Round 2 by adelikat and link_7777 (Awesome Games Done Quick 2017)",
-          "release_year":1985,
-          "run_time":"0:11:19",
-          "starttime":"2017-01-14T19:56:35Z",
-          "display_name":"TASBot vs Gradius:\\nRound 2",
-          "commentators":"",
-          "endtime":"2017-01-14T20:08:54Z",
-          "deprecated_runners":"dwangoAC",
-          "runners":[  
-             127
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2125,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"by total and Ilari",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"TASBot plays Super Mario Bros.",
-          "setup_time":"0:04:00",
-          "event":19,
-          "order":179,
-          "public":"TASBot plays Super Mario Bros. by total and Ilari (Awesome Games Done Quick 2017)",
-          "release_year":1990,
-          "run_time":"0:00:50",
-          "starttime":"2017-01-14T20:08:54Z",
-          "display_name":"TASBot vs.\\nSuper Mario Bros.",
-          "commentators":"",
-          "endtime":"2017-01-14T20:13:44Z",
-          "deprecated_runners":"dwangoAC",
-          "runners":[  
-             127
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2124,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"by total and Ownasaurus",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"NES",
-          "name":"TASBot dominates Mega Man 1",
-          "setup_time":"0:01:00",
-          "event":19,
-          "order":180,
-          "public":"TASBot dominates Mega Man 1 by total and Ownasaurus (Awesome Games Done Quick 2017)",
-          "release_year":1987,
-          "run_time":"0:00:49",
-          "starttime":"2017-01-14T20:13:44Z",
-          "display_name":"TASBot vs. Mega Man 1",
-          "commentators":"",
-          "endtime":"2017-01-14T20:15:33Z",
-          "deprecated_runners":"dwangoAC",
-          "runners":[  
-             127
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2116,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"by Tompa, Masterjun, and Arkun",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"SNES",
-          "name":"TASBot plays A Link to the Past",
-          "setup_time":"0:05:00",
-          "event":19,
-          "order":181,
-          "public":"TASBot plays A Link to the Past by Tompa, Masterjun, and Arkun (Awesome Games Done Quick 2017)",
-          "release_year":1991,
-          "run_time":"0:03:41",
-          "starttime":"2017-01-14T20:15:33Z",
-          "display_name":"TASBot vs.\\nA Link to the Past",
-          "commentators":"",
-          "endtime":"2017-01-14T20:24:14Z",
-          "deprecated_runners":"dwangoAC",
-          "runners":[  
-             127
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2123,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"with Masterjun, micro500, Ilari, and p4plus2",
-          "giantbomb_id":null,
-          "coop":false,
-          "console":"",
-          "name":"TASBot plays the Community Choice",
-          "setup_time":"0:57:00",
-          "event":19,
-          "order":182,
-          "public":"TASBot plays the Community Choice with Masterjun, micro500, Ilari, and p4plus2 (Awesome Games Done Quick 2017)",
-          "release_year":null,
-          "run_time":"0:05:31",
-          "starttime":"2017-01-14T20:24:14Z",
-          "display_name":"TASBot vs. Community Choice",
-          "commentators":"",
-          "endtime":"2017-01-14T21:26:45Z",
-          "deprecated_runners":"dwangoAC",
-          "runners":[  
-             127
-          ],
-          "description":""
-       }
-    },
-    {  
-       "pk":2117,
-       "model":"tracker.speedrun",
-       "fields":{  
-          "category":"Any%",
+          "category":"Any% w/ Bonuses",
           "giantbomb_id":null,
           "coop":false,
           "console":"PC",
-          "name":"Dark Souls 3",
-          "setup_time":"0:35:10",
+          "name":"Star Wars: Battlefront 2",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":183,
-          "public":"Dark Souls 3 Any% (Awesome Games Done Quick 2017)",
-          "release_year":2016,
-          "run_time":"0:58:50",
-          "starttime":"2017-01-14T21:26:45Z",
-          "display_name":"Dark Souls III",
+          "order":45,
+          "public":"Star Wars: Battlefront 2 - Any% w/ Bonuses (Distant Star Cares 2018 Extra Life)",
+          "release_year":2005,
+          "run_time":"1:10:00",
+          "starttime":"",
+          "display_name":"Star Wars:\\nBattlefront 2",
           "commentators":"",
-          "endtime":"2017-01-14T23:00:45Z",
-          "deprecated_runners":"BubblesDelFuego",
+          "endtime":"",
+          "deprecated_runners":"Zojalyx",
           "runners":[  
-             296
+             10
           ],
           "description":""
        }
     },
-    {  
-       "pk":2118,
+						{  
+       "pk":3045,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Single Segment Score Attack",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"N64",
+          "name":"Star Fox 64",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":46,
+          "public":"Star Fox 64 - Single Segment Score Attack (Distant Star Cares 2018 Extra Life)",
+          "release_year":1997,
+          "run_time":"1:00:00",
+          "starttime":"",
+          "display_name":"Star Fox 64",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"Argick, Rakanai",
+          "runners":[  
+             20
+			 26
+          ],
+          "description":""
+       }
+    },
+						{  
+       "pk":3046,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"Any%",
           "giantbomb_id":null,
           "coop":false,
-          "console":"Wii U",
-          "name":"The Legend of Zelda: The Wind Waker HD",
-          "setup_time":"0:30:41",
+          "console":"GBA",
+          "name":"Scooby-Doo! Unmasked",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":184,
-          "public":"The Legend of Zelda: The Wind Waker HD Any% (Awesome Games Done Quick 2017)",
-          "release_year":2013,
-          "run_time":"3:49:19",
-          "starttime":"2017-01-14T23:00:45Z",
-          "display_name":"Zelda:\\nThe Wind Waker HD",
+          "order":47,
+          "public":"Scooby-Doo! Unmasked - Any% (Distant Star Cares 2018 Extra Life)",
+          "release_year":2005,
+          "run_time":"2:10:00",
+          "starttime":"",
+          "display_name":"Scooby-Doo! Unmasked",
           "commentators":"",
-          "endtime":"2017-01-15T03:20:45Z",
-          "deprecated_runners":"Linkus7",
+          "endtime":"",
+          "deprecated_runners":"3ps1l0",
           "runners":[  
-             440
+             27
           ],
           "description":""
        }
     },
-    {  
-       "pk":2119,
+						{  
+       "pk":3047,
        "model":"tracker.speedrun",
        "fields":{  
           "category":"100%",
           "giantbomb_id":null,
           "coop":false,
-          "console":"SNES",
-          "name":"Super Metroid",
-          "setup_time":"0:45:30",
+          "console":"PC",
+          "name":"Robot 64",
+          "setup_time":"0:10:00",
           "event":19,
-          "order":185,
-          "public":"Super Metroid 100% (Awesome Games Done Quick 2017)",
-          "release_year":1994,
-          "run_time":"1:22:30",
-          "starttime":"2017-01-15T03:20:45Z",
-          "display_name":"Super Metroid",
+          "order":48,
+          "public":"Robot 64 - 100% (Distant Star Cares 2018 Extra Life)",
+          "release_year":2005,
+          "run_time":"1:00:00",
+          "starttime":"",
+          "display_name":"Robot 64",
           "commentators":"",
-          "endtime":"2017-01-15T05:28:45Z",
-          "deprecated_runners":"zoast, Ivan, Behemoth87, WildAnaconda69",
+          "endtime":"",
+          "deprecated_runners":"OverworldYT",
           "runners":[  
-             209,
-             306,
-             311,
-             389
+             28
           ],
           "description":""
        }
     },
-    {  
-       "pk":2120,
+						{  
+       "pk":3048,
        "model":"tracker.speedrun",
        "fields":{  
-          "category":"True Pacifist Ending",
+          "category":"All Parts",
           "giantbomb_id":null,
           "coop":false,
-          "console":"PC",
-          "name":"Undertale",
+          "console":"GCN",
+          "name":"Pikmin",
           "setup_time":"0:10:00",
           "event":19,
-          "order":186,
-          "public":"Undertale True Pacifist Ending (Awesome Games Done Quick 2017)",
-          "release_year":2015,
-          "run_time":"1:28:27",
-          "starttime":"2017-01-15T05:28:45Z",
-          "display_name":"Undertale",
+          "order":49,
+          "public":"Pikmin - All Parts (Distant Star Cares 2018 Extra Life)",
+          "release_year":2001,
+          "run_time":"1:30:00",
+          "starttime":"",
+          "display_name":"Pikmin",
           "commentators":"",
-          "endtime":"2017-01-15T07:07:12Z",
-          "deprecated_runners":"TGH",
+          "endtime":"",
+          "deprecated_runners":"theoblivinator",
           "runners":[  
-             441
+             29
           ],
           "description":""
        }
-    }
+    },
+						{  
+       "pk":3049,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"All Stories Any%(Critical)",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PSP",
+          "name":"Kingdom Hearts: Birth By Sleep Final Mix HD",
+          "setup_time":"0:10:00",
+          "event":19,
+          "order":50,
+          "public":"Kingdom Hearts: Birth By Sleep Final Mix HD (Distant Star Cares 2018 Extra Life)",
+          "release_year":2011,
+          "run_time":"3:10:00",
+          "starttime":"",
+          "display_name":"Kingdom Hearts: Birth By Sleep\\nFinal Mix HD",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"Pessilist",
+          "runners":[  
+             30
+          ],
+          "description":""
+       }
+    },
  ]

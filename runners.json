@@ -315,12 +315,12 @@
        "pk":28,
        "model":"tracker.runner",
        "fields":{  
-          "name":"LeftSideWorldWide",
-          "stream":"http://www.twitch.tv/tmstage",
+          "name":"OverworldYT",
+          "stream":"http://www.twitch.tv/overworldyt",
           "twitter":"",
           "youtube":"",
           "donor":null,
-          "public":"LeftSideWorldWide"
+          "public":"OverworldYT"
        }
     },
 	 {  
