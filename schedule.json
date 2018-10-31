@@ -1174,7 +1174,7 @@
           "description":""
        }
     },
-						{  
+	{  
        "pk":3045,
        "model":"tracker.speedrun",
        "fields":{  
@@ -1195,13 +1195,13 @@
           "endtime":"",
           "deprecated_runners":"Argick, Rakanai",
           "runners":[  
-             20
+             20,
 			 26
           ],
           "description":""
        }
     },
-						{  
+	{  
        "pk":3046,
        "model":"tracker.speedrun",
        "fields":{  
@@ -1227,7 +1227,7 @@
           "description":""
        }
     },
-						{  
+	{  
        "pk":3047,
        "model":"tracker.speedrun",
        "fields":{  
@@ -1253,7 +1253,7 @@
           "description":""
        }
     },
-						{  
+	{  
        "pk":3048,
        "model":"tracker.speedrun",
        "fields":{  
@@ -1279,7 +1279,7 @@
           "description":""
        }
     },
-						{  
+	{  
        "pk":3049,
        "model":"tracker.speedrun",
        "fields":{  
