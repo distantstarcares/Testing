@@ -1,0 +1,396 @@
+[  
+	{  
+       "pk":5000,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any%",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"SNES",
+          "name":"Pre-Stream Startup",
+          "setup_time":"0:10:00",
+          "event":21,
+          "order":27,
+          "public":"Pre-Show Startup - Any% (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":2019,
+          "run_time":"0:27:00",
+          "starttime":"",
+          "display_name":"Pre-Show Startup",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"tokko_tomcat",
+          "runners":[  
+			 16
+          ],
+          "description":""
+       }
+    },
+    {  
+       "pk":5001,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any% Glitchless",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Genesis",
+          "name":"Sonic The Hedgehog",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":1,
+          "public":"Sonic The Hedgehog - Any% Glitchless (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":2017,
+          "run_time":"0:26:51",
+          "starttime":"",
+          "display_name":"Sonic The Hedgehog",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"supersonic71087",
+          "runners":[  
+             2
+          ],
+          "description":""
+       }
+    },
+	{  
+       "pk":5002,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any% Glitchless",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Genesis",
+          "name":"Sonic The Hedgehog 2",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":2,
+          "public":"Sonic The Hedgehog 2 - Any% Glitchless (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":2004,
+          "run_time":"0:31:07",
+          "starttime":"",
+          "display_name":"Sonic The Hedgehog 2",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"g3neticlive",
+          "runners":[  
+             3
+          ],
+          "description":""
+       }
+	},
+	    {  
+       "pk":5003,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Beat The Game (Sonic)",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PC",
+          "name":"Sonic CD 2011",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":3,
+          "public":"Sonic CD 2011 - Beat The Game (Sonic) (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":2011,
+          "run_time":"0:30:00",
+          "starttime":"",
+          "display_name":"Sonic CD 2011",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"EBM9",
+          "runners":[  
+             4
+          ],
+          "description":""
+       }
+    },
+	    {  
+       "pk":5004,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"100% Glitchless",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Genesis",
+          "name":"Sonic The Hedgehog 3",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":4,
+          "public":"Sonic The Hedgehog 3 - 100% Glitchless (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":2016,
+          "run_time":"0:25:00",
+          "starttime":"",
+          "display_name":"Sonic The Hedgehog 3",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"eninfamousvy",
+          "runners":[  
+             5
+          ],
+          "description":""
+       }
+    },
+	    {  
+       "pk":5005,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Beat The Game",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Genesis",
+          "name":"Sonic 3D Blast",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":5,
+          "public":"Sonic 3D Blast - Beat The Game (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":2015,
+          "run_time":"0:37:03",
+          "starttime":"",
+          "display_name":"Sonic 3D Blast",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"argick",
+          "runners":[  
+             6
+          ],
+          "description":""
+       }
+    },
+		    {  
+       "pk":5006,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any%",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Genesis",
+          "name":"Mickey Mouse in World of Illusion",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":6,
+          "public":"Overcome - Any% (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":2019,
+          "run_time":"0:25:00",
+          "starttime":"",
+          "display_name":"Mickey Mouse in\\nWorld of Illusion",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"sgtsaltandpepper",
+          "runners":[  
+             7
+          ],
+          "description":""
+       }
+    },
+		    {  
+       "pk":5007,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Arcade - Solo",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Arcade",
+          "name":"Michael Jackson's Moonwalker",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":7,
+          "public":"Michael Jackson's Moonwalker - Arcade - Solo (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":2018,
+          "run_time":"0:22:53",
+          "starttime":"",
+          "display_name":"Michael Jackson's Moonwalker",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"countgooby",
+          "runners":[  
+             8
+          ],
+          "description":""
+       }
+    },
+			    {  
+       "pk":5008,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Live Tutorial Showcase",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Genesis",
+          "name":"Bram Stoker's Dracula",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":8,
+          "public":"Bram Stoker's Dracula - Live Tutorial Showcase (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":1991,
+          "run_time":"0:45:00",
+          "starttime":"",
+          "display_name":"Bram Stoker's in\\nDracula",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"tokko_tomcat",
+          "runners":[  
+             16
+          ],
+          "description":""
+       }
+    },
+			    {  
+       "pk":5009,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any% Easy",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PC",
+          "name":"Gunstar Heroes",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":9,
+          "public":"Gunstar Heroes - Any%  Easy (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":1994,
+          "run_time":"0:45:07",
+          "starttime":"",
+          "display_name":"Gunstar Heroes",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"eninfamousvy, jimsr_",
+          "runners":[  
+             5,
+			 10
+          ],
+          "description":""
+       }
+    },
+					    {  
+       "pk":5010,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Any% OOB",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PC",
+          "name":"Sonic R",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":14,
+          "public":"Sonic R - Any% OOB (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":1990,
+          "run_time":"0:12:31",
+          "starttime":"",
+          "display_name":"Sonic R",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"sanicman99",
+          "runners":[  
+             11
+          ],
+          "description":""
+       }
+    },
+	{  
+       "pk":5011,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Normal",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Genesis",
+          "name":"Castle of Illusion Starring Mickey Mouse",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":11,
+          "public":"Castle of Illusion Starring Mickey Mouse (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":1989,
+          "run_time":"0:27:00",
+          "starttime":"",
+          "display_name":"Castle of Illusion\\nStarring Mickey Mouse",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"SanderNL",
+          "runners":[  
+             9
+          ],
+          "description":""
+       }
+	},
+				    {  
+       "pk":5012,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Hero Story",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Playstation 2",
+          "name":"Sonic Adventure 2: Battle",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":12,
+          "public":"Sonic Adventure 2: Battle - Hero Story (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":1997,
+          "run_time":"0:25:00",
+          "starttime":"",
+          "display_name":"Sonic Adventure 2: Battle",
+          "commentators":"",
+          "endtime":"",
+           "deprecated_runners":"Piner7500, Puddinghouse, Daisukemara, BlazinZzetti",
+          "runners":[  
+             12,
+             13,
+			 14,
+			 15
+          ],
+          "description":""
+       }
+    },
+		{  
+       "pk":5013,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category":"Only Hero vs Only Dark Missions",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"Gamecube",
+          "name":"Shadow The Hedgehog",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":13,
+          "public":"Shadow The Hedgehog - Bid War (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":1991,
+          "run_time":"0:33:21",
+          "starttime":"",
+          "display_name":"Shadow The Hedgehog",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"BlazinZzetti",
+          "runners":[  
+             15
+          ],
+          "description":""
+       }
+	},
+			    {  
+       "pk":5014,
+       "model":"tracker.speedrun",
+       "fields":{  
+          "category": "Sonic & Tails All Emeralds",
+          "giantbomb_id":null,
+          "coop":false,
+          "console":"PC",
+          "name":"Sonic Mania",
+          "setup_time":"0:10:00",
+          "event":20,
+          "order":10,
+          "public":"Mortal Kombat X - Klassic Tower (1 Character) (Distant Star Cares SEGE 2019 (Child's Play))",
+          "release_year":2015,
+          "run_time":"0:59:41",
+          "starttime":"",
+          "display_name":"Sonic Mania",
+          "commentators":"",
+          "endtime":"",
+          "deprecated_runners":"argick",
+          "runners":[  
+             6
+          ],
+          "description":""
+       }
+    }   
+ ]
